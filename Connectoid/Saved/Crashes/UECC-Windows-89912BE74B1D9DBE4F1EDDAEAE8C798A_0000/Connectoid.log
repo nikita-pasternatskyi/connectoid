@@ -1,0 +1,1319 @@
+﻿Log file open, 06/16/22 13:38:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=22436)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Connectoid
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/MyProjects/lostrelicfirstgamejam/Connectoid/Connectoid.uproject -EpicPortal -epicusername=NikPasternatskyi -epicuserid=f2504257173c4791b348468a17bc5fa6 -epiclocale=de -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1706] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2048408d429c597c616410b72466bc72"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.906685
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-89912BE74B1D9DBE4F1EDDAEAE8C798A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.12 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1706] (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=NikPasternatskyi -epicuserid=f2504257173c4791b348468a17bc5fa6 -epiclocale=de -epicsandboxid=ue
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.16-11.38.57:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.16-11.38.57:961][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.16-11.38.57:961][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.16-11.38.57:962][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.16-11.38.57:962][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.06.16-11.38.57:962][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.06.16-11.38.57:962][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.06.16-11.38.57:962][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.06.16-11.38.57:962][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.06.16-11.38.58:001][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.06.16-11.38.58:029][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.06.16-11.38.58:029][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.16-11.38.58:029][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.16-11.38.58:029][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.06.16-11.38.58:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.16-11.38.58:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.16-11.38.58:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.16-11.38.58:030][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.16-11.38.58:031][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.16-11.38.58:036][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.16-11.38.58:200][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.16-11.38.58:200][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.16-11.39.00:067][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.16-11.39.00:067][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 1 output[s]
+[2022.06.16-11.39.00:100][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.06.16-11.39.00:100][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 0 output[s]
+[2022.06.16-11.39.00:106][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.16-11.39.00:106][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 0 output[s]
+[2022.06.16-11.39.00:106][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.16-11.39.00:106][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.16-11.39.00:106][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.16-11.39.00:106][  0]LogHAL: Display: Platform has ~ 16 GB [17054285824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.16-11.39.00:106][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.16-11.39.00:106][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.16-11.39.00:106][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.16-11.39.00:107][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.16-11.39.00:107][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.16-11.39.00:107][  0]LogInit: Computer: DESKTOP-CL61EF0
+[2022.06.16-11.39.00:107][  0]LogInit: User: NikitaPasternatskyi
+[2022.06.16-11.39.00:107][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.16-11.39.00:107][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.16-11.39.00:107][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.06.16-11.39.00:107][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.16-11.39.00:107][  0]LogMemory: Process Physical Memory: 266.75 MB used, 271.69 MB peak
+[2022.06.16-11.39.00:107][  0]LogMemory: Process Virtual Memory: 213.52 MB used, 213.52 MB peak
+[2022.06.16-11.39.00:107][  0]LogMemory: Physical Memory: 13887.22 MB used,  2377.02 MB free, 16264.23 MB total
+[2022.06.16-11.39.00:107][  0]LogMemory: Virtual Memory: 19597.89 MB used,  10278.51 MB free, 29876.40 MB total
+[2022.06.16-11.39.00:107][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.16-11.39.00:113][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.16-11.39.00:129][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.16-11.39.00:129][  0]LogInit: Using OS detected language (de-DE).
+[2022.06.16-11.39.00:129][  0]LogInit: Using OS detected locale (de-DE).
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so 'de' will be used for the language.
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2022.06.16-11.39.00:132][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2022.06.16-11.39.00:133][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.16-11.39.00:144][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.16-11.39.00:144][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - (Keyboard).
+[2022.06.16-11.39.00:144][  0]LogWindowsTextInputMethodSystem:   - Ukrainisch (Ukraine) - (Keyboard).
+[2022.06.16-11.39.00:144][  0]LogWindowsTextInputMethodSystem:   - Russisch (Russische Föderation) - (Keyboard).
+[2022.06.16-11.39.00:144][  0]LogWindowsTextInputMethodSystem:   - Englisch (Vereinigte Staaten) - (Keyboard).
+[2022.06.16-11.39.00:144][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - Fingereingabe - Korrektur (TSF IME).
+[2022.06.16-11.39.00:144][  0]LogWindowsTextInputMethodSystem: Activated input method: Russisch (Russische Föderation) - (Keyboard).
+[2022.06.16-11.39.00:161][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.16-11.39.00:161][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.16-11.39.00:279][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.16-11.39.00:614][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.16-11.39.00:614][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.16-11.39.00:783][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.16-11.39.00:943][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.16-11.39.00:952][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.16-11.39.00:970][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.16-11.39.01:111][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.16-11.39.01:111][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.16-11.39.01:157][  0]LogD3D12RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.16-11.39.01:157][  0]LogWindows: Attached monitors:
+[2022.06.16-11.39.01:157][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.16-11.39.01:157][  0]LogWindows: Found 1 attached monitors.
+[2022.06.16-11.39.01:157][  0]LogWindows: EnumDisplayDevices:
+[2022.06.16-11.39.01:157][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.16-11.39.01:157][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.16-11.39.01:158][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.16-11.39.01:158][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.16-11.39.01:158][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.06.16-11.39.01:158][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.06.16-11.39.01:158][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.06.16-11.39.01:159][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.06.16-11.39.01:159][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.06.16-11.39.01:159][  0]LogD3D12RHI:   Driver Version: 512.95 (internal:30.0.15.1295, unified:512.95)
+[2022.06.16-11.39.01:159][  0]LogD3D12RHI:      Driver Date: 5-19-2022
+[2022.06.16-11.39.01:159][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.06.16-11.39.01:159][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.16-11.39.01:159][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.16-11.39.01:386][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.16-11.39.01:403][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Connectoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Intermediate/TurnkeyReport_0.log" -log="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Intermediate/TurnkeyLog_0.log" -project="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Connectoid.uproject"  -platform=all'
+[2022.06.16-11.39.01:403][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Connectoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Intermediate/TurnkeyReport_0.log" -log="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Intermediate/TurnkeyLog_0.log" -project="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Connectoid.uproject"  -platform=all" ]
+[2022.06.16-11.39.01:451][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.16-11.39.01:464][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.16-11.39.01:464][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.16-11.39.01:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.16-11.39.01:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.16-11.39.01:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.16-11.39.01:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.16-11.39.01:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.16-11.39.01:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.16-11.39.01:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.16-11.39.01:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.16-11.39.01:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.16-11.39.01:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.16-11.39.01:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.16-11.39.01:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.16-11.39.01:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.16-11.39.01:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.16-11.39.01:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.16-11.39.01:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.16-11.39.01:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.16-11.39.01:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.16-11.39.01:548][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.16-11.39.01:559][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.16-11.39.01:564][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.16-11.39.01:565][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.16-11.39.01:565][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.16-11.39.01:565][  0]LogTargetPlatformManager:   PCM
+[2022.06.16-11.39.01:568][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.16-11.39.01:568][  0]LogTargetPlatformManager:   BINKA
+[2022.06.16-11.39.01:568][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.16-11.39.01:568][  0]LogTargetPlatformManager:   OGG
+[2022.06.16-11.39.01:568][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.16-11.39.01:568][  0]LogTargetPlatformManager:   OPUS
+[2022.06.16-11.39.01:641][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.16-11.39.01:652][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.16-11.39.01:655][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.16-11.39.01:655][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.16-11.39.01:655][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.16-11.39.01:655][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.16-11.39.01:655][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.16-11.39.01:655][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.16-11.39.01:655][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.16-11.39.01:655][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.16-11.39.01:656][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/MyProjects/lostrelicfirstgamejam/Connectoid/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.16-11.39.01:657][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.16-11.39.01:657][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/MyProjects/lostrelicfirstgamejam/Connectoid/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.16-11.39.01:665][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.06.16-11.39.01:665][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.16-11.39.01:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/MyProjects/lostrelicfirstgamejam/Connectoid/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.16-11.39.01:669][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.16-11.39.01:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/MyProjects/lostrelicfirstgamejam/Connectoid/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.16-11.39.01:669][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.16-11.39.01:724][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.16-11.39.01:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.16-11.39.01:725][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.16-11.39.01:738][  0]LogDerivedDataCache: Speed tests for C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.16-11.39.01:738][  0]LogDerivedDataCache: Display: Performance to C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=225.31MBs, RandomWriteSpeed=110.98MBs. Assigned SpeedClass 'Local'
+[2022.06.16-11.39.01:748][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.16-11.39.01:749][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.16-11.39.01:749][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.16-11.39.01:760][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.16-11.39.01:761][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.16-11.39.01:763][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (E:/MyProjects/lostrelicfirstgamejam/Connectoid/Intermediate/Shaders/WorkingDirectory/18356/).
+[2022.06.16-11.39.01:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NikitaPasternatskyi/AppData/Local/Temp/UnrealShaderWorkingDir/ACCACA514A5C1BCCEE75F3B5A3F572F1/'.
+[2022.06.16-11.39.01:764][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.16-11.39.01:764][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.06.16-11.39.03:478][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.16-11.39.03:479][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.16-11.39.03:537][  0]LogAssetRegistry: FAssetRegistry took 0.0179 seconds to start up
+[2022.06.16-11.39.03:559][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.16-11.39.03:788][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.16-11.39.03:788][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.16-11.39.04:114][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.16-11.39.04:114][  0]LogDeviceProfileManager: Active device profile: [0000050B49C8E8C0][0000050B2EF25000 50] WindowsEditor
+[2022.06.16-11.39.04:114][  0]LogDeviceProfileManager: Profiles: [0000050B49C8E380][0000050B413EA000 50] Windows, [0000050B49C8E8C0][0000050B2EF25000 50] WindowsEditor, [0000050B49C8DC80][0000050B41430000 50] WindowsServer, [0000050B49C8C780][0000050B49FE0000 50] WindowsClient, [0000050B49C8E1C0][0000050B49FE5000 50] IOS, [0000050B49C8BB40][0000050B49FE7800 50] iPadAir2, [0000050B49C8F180][0000050B49FEC800 50] IPadPro, [0000050B49C8F500][0000050B49FEA000 50] iPadAir3, [0000050B49C8CB00][0000050B41432800 50] iPadAir4, [0000050B49C8EE00][0000050B4A190000 50] iPadMini4, [0000050B49C8C5C0][0000050B4A195000 50] iPadMini5, [0000050B49C8EC40][0000050B4A197800 50] iPadMini6, [0000050B4A231C00][0000050B49FE2800 50] iPhone6S, [0000050B4A231A40][0000050B4A19C800 50] iPhone7, [0000050B4A2316C0][0000050B4A19A000 50] iPodTouch7, [0000050B4A232680][0000050B4A1B0000 50] iPhone6SPlus, [0000050B4A230700][0000050B4A1B5000 50] iPhone7Plus, [0000050B4A232840][0000050B4A1B7800 50] iPhoneSE, [0000050B4A230000][0000050B4A1BA000 50] iPhone8, [0000050B4A233480][0000050B4A1BC800 50] iPhone8Plus, [0000050B4A230E00][0000050B4A192800 50] iPhoneX, [0000050B4A233100][0000050B4A1C0000 50] iPhoneXS, [0000050B4A231DC0][0000050B4A1C5000 50] iPhoneXSMax, [0000050B4A231180][0000050B4A1C7800 50] iPhoneXR, [0000050B4A232F40][0000050B4A1CA000 50] iPhone11, [0000050B4A2301C0][0000050B4A1CC800 50] iPhone11Pro, [0000050B4A233640][0000050B4A1B2800 50] iPhone11ProMax, [0000050B4A231500][0000050B4A1E0000 50] iPhoneSE2, [0000050B4A230540][0000050B4A1E5000 50] iPhone12Mini, [0000050B4A2339C0][0000050B4A1E7800 50] iPhone12, [0000050B4A234B40][0000050B4A1EA000 50] iPhone12Pro, [0000050B4A233F00][0000050B4A1EC800 50] iPhone12ProMax, [0000050B4A234600][0000050B4A1C2800 50] iPhone13Mini, [0000050B4A230A80][0000050B4A1F0000 50] iPhone13, [0000050B4A2347C0][0000050B4A1F5000 50] iPhone13Pro, [0000050B4A231F80][0000050B4A1F7800 50] iPhone13ProMax, [0000050B4A232A00][0000050B4A1FA000 50] iPadPro105, [0000050B4A234D00][0000050B4A1FC800 50] iPadPro129, [0000050B4A234280][0000050B4A1E2800 50] iPadPro97, [0000050B4A235CC0][0000050B4A200000 50] iPadPro2_129, [0000050B4A232140][0000050B4A205000 50] iPad5, [0000050B4A235780][0000050B4A207800 50] iPad6, [0000050B4A230380][0000050B4A20A000 50] iPad7, [0000050B4A2355C0][0000050B4A20C800 50] iPad8, [0000050B4A232D80][0000050B4A1F2800 50] iPad9, [0000050B4A231880][0000050B4A210000 50] iPadPro11, [0000050B4A231340][0000050B4A215000 50] iPadPro2_11, [0000050B4A235080][0000050B4A217800 50] iPadPro3_11, [0000050B4A236AC0][0000050B4A21A000 50] iPadPro3_129, [0000050B4A230FC0][0000050B4A21C800 50] iPadPro4_129, [0000050B4A236580][0000050B4A202800 50] iPadPro5_129, [0000050B4A235400][0000050B4A240000 50] AppleTV, [0000050B4A236C80][0000050B4A245000 50] AppleTV4K, [0000050B4A234980][0000050B4A247800 50] TVOS, [0000050B4A238DC0][0000050B4A24C800 50] Mac, [0000050B4A239140][0000050B4A24A000 50] MacEditor, [0000050B4A230C40][0000050B4A212800 50] MacClient, [0000050B4A237700][0000050B4A250000 50] MacServer, [0000050B4A236200][0000050B4A257800 50] Linux, [0000050B4A233800][0000050B4A255000 50] LinuxEditor, [0000050B4A2363C0][0000050B4A25A000 50] LinuxArm64Editor, [0000050B4A2378C0][0000050B4A25C800 50] LinuxArm64, [0000050B4A237C40][0000050B4A242800 50] LinuxClient, [0000050B4A238340][0000050B4A220000 50] LinuxArm64Client, [0000050B4A235940][0000050B4A225000 50] LinuxServer, [0000050B4A235B00][0000050B4A227800 50] LinuxArm64Server, [0000050B4A239BC0][0000050B4A22A000 50] Android, [0000050B4A235E80][0000050B4A22C800 50] Android_Preview_OpenGL, [0000050B4A236900][0000050B4A252800 50] Android_Preview_Vulkan, [0000050B4A239300][0000050B4A280000 50] Android_Low, [0000050B4A2324C0][0000050B4A285000 50] Android_Mid, [0000050B4A237000][0000050B4A287800 50] Android_High, [0000050B4A239840][0000050B4A28A000 50] Android_Default, [0000050B4A238880][0000050B4A28C800 50] Android_Adreno4xx, [0000050B4A233D40][0000050B4A222800 50] Android_Adreno5xx_Low, [0000050B4A238C00][0000050B4A290000 50] Android_Adreno5xx, [0000050B4A236040][0000050B4A295000 50] Android_Adreno6xx, [0000050B4A2386C0][0000050B4A297800 50] Android_Adreno6xx_Vulkan, [0000050B4A238500][0000050B4A29A000 50] Android_Adreno7xx, [0000050B4A239680][0000050B4A29C800 50] Android_Adreno7xx_Vulkan, [0000050B4A2308C0][0000050B4A282800 50] Android_Mali_T6xx, [0000050B4A234440][0000050B4A260000 50] Android_Mali_T7xx, [0000050B4A237A80][0000050B4A265000 50] Android_Mali_T8xx, [0000050B4A236740][0000050B4A267800 50] Android_Mali_G71, [0000050B4A23A9C0][0000050B4A26A000 50] Android_Mali_G72, [0000050B4A237E00][0000050B4A26C800 50] Android_Mali_G72_Vulkan, [0000050B4A23A480][0000050B4A292800 50] Android_Mali_G76, [0000050B4A232300][0000050B4A2A0000 50] Android_Mali_G76_Vulkan, [0000050B4A23AB80][0000050B4A2A5000 50] Android_Mali_G77, [0000050B4A237540][0000050B4A2A7800 50] Android_Mali_G77_Vulkan, [0000050B4A236E40][0000050B4A2AA000 50] Android_Mali_G78, [0000050B4A238A40][0000050B4A2AC800 50] Android_Mali_G78_Vulkan, [0000050B4A2394C0][0000050B4A262800 50] Android_Mali_G710, [0000050B4A23B980][0000050B4A2B0000 50] Android_Mali_G710_Vulkan, [0000050B4A239A00][0000050B4A2B5000 50] Android_Xclipse_920, [0000050B4A23B440][0000050B4A2B7800 50] Android_Xclipse_920_Vulkan, [0000050B4A2340C0][0000050B4A2BA000 50] Android_Vulkan_SM5, [0000050B4A237380][0000050B4A2BC800 50] Android_PowerVR_G6xxx, [0000050B4A23BB40][0000050B4A2A2800 50] Android_PowerVR_GT7xxx, [0000050B4A234EC0][0000050B4A2C0000 50] Android_PowerVR_GE8xxx, [0000050B4A23B7C0][0000050B4A2C5000 50] Android_PowerVR_GM9xxx, [0000050B4A23C940][0000050B4A2C7800 50] Android_PowerVR_GM9xxx_Vulkan, [0000050B4A2332C0][0000050B4A2CA000 50] Android_TegraK1, [0000050B4A23C400][0000050B4A2CC800 50] Android_Unknown_Vulkan, [0000050B4A23B280][0000050B4A2B2800 50] Oculus_Quest, [0000050B4A23CB00][0000050B4A2D0000 50] Oculus_Quest2, [0000050B4A23B600][0000050B4A2D5000 50] HoloLens, 
+[2022.06.16-11.39.04:115][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.16-11.39.04:162][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.16-11.39.04:606][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.16-11.39.04:606][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.16-11.39.04:606][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.16-11.39.04:606][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.16-11.39.04:606][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.16-11.39.04:638][  0]LogNetVersion: Connectoid 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 728722460)
+[2022.06.16-11.39.05:168][  0]LogSlate: Border
+[2022.06.16-11.39.05:169][  0]LogSlate: BreadcrumbButton
+[2022.06.16-11.39.05:169][  0]LogSlate: Default
+[2022.06.16-11.39.05:169][  0]LogSlate: Icons.Save
+[2022.06.16-11.39.05:169][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.16-11.39.05:169][  0]LogSlate: ListView
+[2022.06.16-11.39.05:169][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.16-11.39.05:169][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.16-11.39.05:169][  0]LogSlate: TableView.DarkRow
+[2022.06.16-11.39.05:169][  0]LogSlate: TableView.Row
+[2022.06.16-11.39.05:169][  0]LogSlate: TreeView
+[2022.06.16-11.39.05:890][  0]SourceControl: Source control is disabled
+[2022.06.16-11.39.06:030][  0]SourceControl: Source control is disabled
+[2022.06.16-11.39.06:030][  0]SourceControl: Source control is disabled
+[2022.06.16-11.39.06:386][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.06.16-11.39.06:386][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.06.16-11.39.06:386][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.16-11.39.07:321][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 14775C2C48A87F07CC236C8F4472585D | Instance: 5382264C424DD74B78C514B873B930AB (DESKTOP-CL61EF0-18356).
+[2022.06.16-11.39.07:424][  0]LogPython: Using Python 3.9.7
+[2022.06.16-11.39.09:788][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.16-11.39.09:797][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.16-11.39.10:032][  0]SourceControl: Source control is disabled
+[2022.06.16-11.39.10:043][  0]SourceControl: Source control is disabled
+[2022.06.16-11.39.10:082][  0]LogUProjectInfo: Found projects:
+[2022.06.16-11.39.10:094][  0]SourceControl: Source control is disabled
+[2022.06.16-11.39.12:224][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.16-11.39.12:437][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.16-11.39.12:491][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.16-11.39.12:491][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.16-11.39.12:735][  0]LogCollectionManager: Loaded 0 collections in 0.002345 seconds
+[2022.06.16-11.39.12:907][  0]LogFileCache: Scanning file cache for directory 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Collections/' took 0.00s
+[2022.06.16-11.39.12:907][  0]LogFileCache: Scanning file cache for directory 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Developers/NikitaPasternatskyi/Collections/' took 0.00s
+[2022.06.16-11.39.12:907][  0]LogFileCache: Scanning file cache for directory 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Collections/' took 0.00s
+[2022.06.16-11.39.13:905][  0]LogEngine: Initializing Engine...
+[2022.06.16-11.39.14:087][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.06.16-11.39.14:120][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.06.16-11.39.14:758][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.16-11.39.14:758][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.16-11.39.14:780][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.39.14:878][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.16-11.39.14:881][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.16-11.39.14:919][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.16-11.39.14:921][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.16-11.39.14:921][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.16-11.39.14:921][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.16-11.39.14:921][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.16-11.39.14:922][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.16-11.39.14:922][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.16-11.39.14:922][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.16-11.39.14:922][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.16-11.39.14:922][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.16-11.39.14:922][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.16-11.39.14:922][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.16-11.39.14:922][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.16-11.39.14:922][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.16-11.39.14:922][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.16-11.39.14:922][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.16-11.39.14:931][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.16-11.39.15:006][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.16-11.39.15:007][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.16-11.39.15:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.16-11.39.15:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.16-11.39.15:013][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.16-11.39.15:014][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.16-11.39.15:022][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.16-11.39.15:022][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.16-11.39.15:022][  0]LogInit: FAudioDevice initialized.
+[2022.06.16-11.39.15:023][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.16-11.39.15:023][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.16-11.39.15:023][  0]LogInit: Texture streaming: Enabled
+[2022.06.16-11.39.15:121][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.16-11.39.15:142][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.16-11.39.15:221][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.16-11.39.15:247][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.16-11.39.15:248][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.16-11.40.35:795][  0]LogLiveCoding: Display: First instance in process group "UE_Connectoid_0x8b46b50a", spawning console
+[2022.06.16-11.40.35:795][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.16-11.40.35:795][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.16-11.40.35:859][  0]LogInit: Transaction tracking system initialized
+[2022.06.16-11.40.36:053][  0]BlueprintLog: New page: Editor Load
+[2022.06.16-11.40.36:290][  0]LocalizationService: Localization service is disabled
+[2022.06.16-11.40.36:439][  0]TimingProfiler: Initialize
+[2022.06.16-11.40.36:440][  0]TimingProfiler: OnSessionChanged
+[2022.06.16-11.40.36:440][  0]LoadingProfiler: Initialize
+[2022.06.16-11.40.36:440][  0]LoadingProfiler: OnSessionChanged
+[2022.06.16-11.40.36:440][  0]NetworkingProfiler: Initialize
+[2022.06.16-11.40.36:440][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.16-11.40.36:440][  0]MemoryProfiler: Initialize
+[2022.06.16-11.40.36:440][  0]MemoryProfiler: OnSessionChanged
+[2022.06.16-11.40.40:059][  0]LogFileCache: Scanning file cache for directory 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/' took 0.01s
+[2022.06.16-11.40.40:059][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.16-11.40.40:150][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.16-11.40.40:152][  0]SourceControl: Source control is disabled
+[2022.06.16-11.40.40:152][  0]LogUnrealEdMisc: Loading editor; pre map load, took 106.075
+[2022.06.16-11.40.40:152][  0]Cmd: MAP LOAD FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.16-11.40.40:152][  0]LightingResults: New page: Lighting Build
+[2022.06.16-11.40.40:163][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.40.40:163][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.40.40:163][  0]MapCheck: New page: Map Check
+[2022.06.16-11.40.40:163][  0]LightingResults: New page: Lighting Build
+[2022.06.16-11.40.40:172][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.16-11.40.40:186][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.16-11.40.47:026][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave ambient...
+[2022.06.16-11.40.47:050][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/ambient.ambient will be modified from 40 to 40.
+[2022.06.16-11.40.47:539][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 7335632 while cooking SoundWave /Game/Sounds/ambient.ambient.
+[2022.06.16-11.40.47:561][  0]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/ambient.ambient: 262144
+[2022.06.16-11.40.48:181][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2022.06.16-11.40.48:181][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.16-11.40.48:181][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.40.48:182][  0]LogAIModule: Creating AISystem for world Level01
+[2022.06.16-11.40.50:045][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.16-11.40.50:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.16-11.40.50:057][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.16-11.40.50:057][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2022.06.16-11.40.50:057][  0]LogFileHelpers: Loading map 'Level01' took 9.905
+[2022.06.16-11.40.50:166][  0]LogUnrealEdMisc: Total Editor Startup Time, took 116.088
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: ================================================
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.16-11.40.50:166][  0]LogShaderCompilers: Display: ================================================
+[2022.06.16-11.40.53:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.40.53:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.40.53:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.40.53:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.40.57:503][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.16-11.40.57:505][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.57:608][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.16-11.40.57:608][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.57:681][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.16-11.40.57:681][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.57:976][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.16-11.40.57:976][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.58:335][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.16-11.40.58:335][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.58:342][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.16-11.40.58:342][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.58:350][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.16-11.40.58:350][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.58:444][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.16-11.40.58:444][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.58:451][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.16-11.40.58:451][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.40.58:457][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.16-11.40.58:457][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.16-11.41.00:746][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.16-11.41.00:937][  0]LogSlate: Took 0.038577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.16-11.41.01:008][  0]LogSlate: Took 0.049259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.16-11.41.01:104][  0]LogViewport: Scene viewport resized to 1404x902, mode Windowed.
+[2022.06.16-11.41.01:436][  0]LogSlate: Took 0.027608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.16-11.41.02:193][  0]LogDerivedDataCache: C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.064 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.16-11.41.03:957][  0]LogStall: Startup...
+[2022.06.16-11.41.03:959][  0]LogStall: Startup complete.
+[2022.06.16-11.41.04:029][  0]LogLoad: (Engine Initialization) Total time: 129.95 seconds
+[2022.06.16-11.41.04:029][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.16-11.41.04:480][  0]LogAssetRegistry: Asset discovery search completed in 120.9444 seconds
+[2022.06.16-11.41.04:547][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.16-11.41.04:742][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.16-11.41.06:490][  3]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.16-11.42.36:285][271]LogWindowsTextInputMethodSystem: Activated input method: Englisch (Vereinigte Staaten) - (Keyboard).
+[2022.06.16-11.42.36:285][271]LogWindowsTextInputMethodSystem: Activated input method: Englisch (Vereinigte Staaten) - (Keyboard).
+[2022.06.16-11.42.39:344][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.16-11.42.39:469][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.16-11.42.39:552][427]PIE: New page: PIE session: Level01 (16.06.2022, 15:42:39)
+[2022.06.16-11.42.39:612][427]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.16-11.42.39:619][427]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.16-11.42.39:620][427]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2022.06.16-11.42.39:699][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079596s)
+[2022.06.16-11.42.39:699][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.080140s)
+[2022.06.16-11.42.39:700][427]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.16-11.42.39:722][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.42.39:723][427]LogAIModule: Creating AISystem for world Level01
+[2022.06.16-11.42.39:745][427]LogPlayLevel: PIE: World Init took: (0.044978s)
+[2022.06.16-11.42.39:782][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.16-11.42.39:843][427]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.16-11.42.39:843][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.16-11.42.39:843][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.16-11.42.39:843][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.16-11.42.39:843][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.16-11.42.39:843][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.16-11.42.39:843][427]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.16-11.42.39:843][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.16-11.42.39:843][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.16-11.42.39:843][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.16-11.42.39:843][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.16-11.42.39:843][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.16-11.42.39:845][427]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.16-11.42.39:858][427]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.16-11.42.39:858][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.16-11.42.39:858][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.16-11.42.39:858][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.16-11.42.39:860][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.16-11.42.39:860][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.16-11.42.39:861][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.16-11.42.39:861][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.16-11.42.39:861][427]LogInit: FAudioDevice initialized.
+[2022.06.16-11.42.39:861][427]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level01'.
+[2022.06.16-11.42.39:927][427]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.16-11.42.39:940][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2022.06.16-13.42.39
+[2022.06.16-11.42.39:983][427]LogWorld: Bringing up level for play took: 0.055821
+[2022.06.16-11.42.40:008][427]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.06.16-11.42.41:025][427]PIE: Server logged in
+[2022.06.16-11.42.41:027][427]PIE: Play in editor total start time 1,663 seconds.
+[2022.06.16-11.42.42:798][432]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2022.06.16-11.42.44:671][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.42.44:671][528]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level01
+[2022.06.16-11.42.44:671][528]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.42.44:671][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.42.44:836][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.16-11.42.44:911][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.42.44:998][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.16-11.42.44:998][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.16-11.42.45:000][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.16-11.42.45:003][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.42.45:177][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.16-11.42.45:224][529]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.06.16-11.42.45:913][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.16-11.42.45:920][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.16-11.42.45:920][571]PIE: New page: PIE session: Level01 (16.06.2022, 15:42:45)
+[2022.06.16-11.42.45:920][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2022.06.16-11.42.45:924][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003769s)
+[2022.06.16-11.42.45:924][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.003852s)
+[2022.06.16-11.42.45:924][571]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.16-11.42.45:924][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.42.45:925][571]LogAIModule: Creating AISystem for world Level01
+[2022.06.16-11.42.45:925][571]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2022.06.16-11.42.45:934][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.16-11.42.45:934][571]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.16-11.42.45:934][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.16-11.42.45:934][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.16-11.42.45:934][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.16-11.42.45:934][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.16-11.42.45:934][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.16-11.42.45:934][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.16-11.42.45:934][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.16-11.42.45:934][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.16-11.42.45:935][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.16-11.42.45:935][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.16-11.42.45:935][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.16-11.42.45:937][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.16-11.42.45:950][571]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.16-11.42.45:951][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.16-11.42.45:951][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.16-11.42.45:951][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.16-11.42.45:951][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.16-11.42.45:951][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.16-11.42.45:953][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.16-11.42.45:953][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.16-11.42.45:953][571]LogInit: FAudioDevice initialized.
+[2022.06.16-11.42.45:953][571]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level01'.
+[2022.06.16-11.42.45:964][571]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.16-11.42.45:966][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2022.06.16-13.42.45
+[2022.06.16-11.42.45:967][571]LogWorld: Bringing up level for play took: 0.002247
+[2022.06.16-11.42.45:969][571]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.06.16-11.42.45:970][571]PIE: Server logged in
+[2022.06.16-11.42.45:971][571]PIE: Play in editor total start time 0,051 seconds.
+[2022.06.16-11.42.46:662][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.42.46:662][611]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level01
+[2022.06.16-11.42.46:662][611]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.42.46:662][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.42.46:676][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.16-11.42.46:678][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.42.46:687][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.42.46:687][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.16-11.42.46:688][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.16-11.42.46:694][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.16-11.42.46:738][613]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.06.16-11.42.54:216][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.16-11.42.54:224][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.16-11.42.54:262][903]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004104 seconds
+[2022.06.16-11.42.54:467][903]LogSavePackage: Moving output files for package: /Game/Maps/Level01
+[2022.06.16-11.42.54:467][903]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Level01605D03C845CAF69D670892A8C6C00FBE.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Maps/Level01.umap'
+[2022.06.16-11.42.54:529][903]LogFileHelpers: No new changes to save!
+[2022.06.16-11.42.54:599][903]AssetCheck: New page: Asset Save: Level01
+[2022.06.16-11.42.54:610][903]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2022.06.16-11.43.01:649][216]LogViewport: Scene viewport resized to 443x284, mode Windowed.
+[2022.06.16-11.43.04:539][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.16-11.43.04:548][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.16-11.43.04:559][359]LogSavePackage: Moving output files for package: /Game/Maps/Level01
+[2022.06.16-11.43.04:559][359]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Level01DF9A29894444E3F4672B658C280641EC.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Maps/Level01.umap'
+[2022.06.16-11.43.04:571][359]LogFileHelpers: No new changes to save!
+[2022.06.16-11.43.04:595][359]AssetCheck: New page: Asset Save: Level01
+[2022.06.16-11.43.04:595][359]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2022.06.16-11.43.06:420][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.16-11.43.06:426][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.16-11.43.06:426][456]PIE: New page: PIE session: Level01 (16.06.2022, 15:43:06)
+[2022.06.16-11.43.06:426][456]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2022.06.16-11.43.06:429][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002732s)
+[2022.06.16-11.43.06:429][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.002824s)
+[2022.06.16-11.43.06:429][456]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.16-11.43.06:429][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.43.06:430][456]LogAIModule: Creating AISystem for world Level01
+[2022.06.16-11.43.06:431][456]LogPlayLevel: PIE: World Init took: (0.001989s)
+[2022.06.16-11.43.06:439][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.16-11.43.06:440][456]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.16-11.43.06:440][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.16-11.43.06:440][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.16-11.43.06:440][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.16-11.43.06:440][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.16-11.43.06:440][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.16-11.43.06:440][456]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.16-11.43.06:440][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.16-11.43.06:440][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.16-11.43.06:440][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.16-11.43.06:440][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.16-11.43.06:440][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.16-11.43.06:442][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.16-11.43.06:456][456]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.16-11.43.06:456][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.16-11.43.06:456][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.16-11.43.06:456][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.16-11.43.06:457][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.06.16-11.43.06:457][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.06.16-11.43.06:459][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.06.16-11.43.06:459][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.06.16-11.43.06:459][456]LogInit: FAudioDevice initialized.
+[2022.06.16-11.43.06:459][456]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level01'.
+[2022.06.16-11.43.06:474][456]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.16-11.43.06:475][456]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2022.06.16-13.43.06
+[2022.06.16-11.43.06:475][456]LogWorld: Bringing up level for play took: 0.001077
+[2022.06.16-11.43.06:477][456]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.06.16-11.43.06:478][456]PIE: Server logged in
+[2022.06.16-11.43.06:479][456]PIE: Play in editor total start time 0,053 seconds.
+[2022.06.16-11.43.26:742][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.43.26:742][613]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level01
+[2022.06.16-11.43.26:742][613]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.43.26:743][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.43.26:753][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.16-11.43.26:755][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.43.26:761][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.16-11.43.26:762][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.16-11.43.26:764][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.16-11.43.26:808][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.16-11.43.26:876][614]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.16-11.43.26:903][614]LogViewport: Scene viewport resized to 443x284, mode Windowed.
+[2022.06.16-11.43.27:558][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.16-11.43.27:569][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.16-11.43.27:579][639]LogSavePackage: Moving output files for package: /Game/Maps/Level01
+[2022.06.16-11.43.27:580][639]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Level01F9B7011E4ED737DA1386CD80BFAB4628.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Maps/Level01.umap'
+[2022.06.16-11.43.27:591][639]LogFileHelpers: No new changes to save!
+[2022.06.16-11.43.27:601][639]AssetCheck: New page: Asset Save: Level01
+[2022.06.16-11.43.27:601][639]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2022.06.16-11.48.21:375][582]LogSlate: Took 0.017378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.16-11.48.21:676][582]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.16-11.48.33:364][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.16-11.48.36:749][210]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.48.36:899][210]LogUObjectGlobals: Force Deleting 29 Package(s):
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_0_new_.Connectoid_Sprite_0_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_10_new_.Connectoid_Sprite_10_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_11_new_.Connectoid_Sprite_11_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_12_new_.Connectoid_Sprite_12_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_13_new_.Connectoid_Sprite_13_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_14_new_.Connectoid_Sprite_14_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_15_new_.Connectoid_Sprite_15_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_16_new_.Connectoid_Sprite_16_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_17_new_.Connectoid_Sprite_17_new_
+	Asset Type: PaperSprite
+	Asset Name: /Game/Graphics/Sprites/Connectoid_Sprite_1_new_.Connectoid_Sprite_1_new_
+	Asset Type: PaperSprite
+[2022.06.16-11.48.38:879][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.16-11.48.38:886][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.16-11.48.38:893][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.16-11.48.42:973][327]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.06.16-11.48.42:973][327]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.06.16-11.48.44:938][411]LogEditorFactories: Performing atomic reimport of [E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png]
+[2022.06.16-11.48.44:938][411]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png)
+[2022.06.16-11.48.45:009][411]LogEditorFactories: -- imported successfully
+[2022.06.16-11.48.45:062][411]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid.Connectoid (TFO_AutoDXT, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.48.47:262][501]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Graphics/Sprites/Connectoid.Connectoid
+[2022.06.16-11.48.47:370][501]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.06.16-11.48.47:786][501]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2022.06.16-11.48.56:735][964]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.16-11.48.56:743][964]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.06.16-11.48.56:812][965]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.06.16-11.48.56:881][966]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.06.16-11.49.04:430][363]LogSlate: Window 'Extract sprites' being destroyed
+[2022.06.16-11.49.06:915][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.16-11.49.08:860][501]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.49.08:878][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.16-11.49.08:888][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.16-11.49.08:900][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.06.16-11.49.10:755][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.06.16-11.49.11:705][605]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.49.11:723][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.16-11.49.11:731][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.16-11.49.11:740][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.16-11.49.14:277][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.16-11.49.15:352][750]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.49.15:370][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.16-11.49.15:378][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.16-11.49.15:387][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.16-11.49.17:503][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.16-11.49.18:483][870]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.49.18:500][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.16-11.49.18:509][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.16-11.49.18:518][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.16-11.49.20:994][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.16-11.49.22:293][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.49.22:311][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.16-11.49.22:319][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.16-11.49.22:326][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.16-11.49.24:014][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.16-11.49.25:017][ 96]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.49.25:037][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.06.16-11.49.25:046][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.16-11.49.25:055][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.16-11.49.29:185][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.06.16-11.49.30:206][336]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.16-11.49.30:227][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.16-11.49.30:238][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.16-11.49.30:247][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.06.16-11.49.35:464][579]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.16-11.49.35:499][579]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.16-11.49.35:531][580]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.06.16-11.49.38:046][724]LogContentBrowser: Attempting asset rename: NewFolder -> Connectoid
+[2022.06.16-11.49.38:047][724]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.16-11.49.46:494][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Connectoid/Connectoid" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset" SILENT=true
+[2022.06.16-11.49.46:577][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid
+[2022.06.16-11.49.46:577][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/ConnectoidF2EA6BCE4FBB4A0EFC41EA972129AA0B.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset'
+[2022.06.16-11.49.46:581][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_0
+[2022.06.16-11.49.46:581][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_0930EC6EA4EE452718C689B9A34977281.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_0.uasset'
+[2022.06.16-11.49.46:586][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_1
+[2022.06.16-11.49.46:586][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_19887D69540ED7E5B693591A11A56DF3C.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_1.uasset'
+[2022.06.16-11.49.46:590][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_2
+[2022.06.16-11.49.46:590][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_2CB592DD846A748AD2D4638A25B16A9E7.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_2.uasset'
+[2022.06.16-11.49.46:594][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_3
+[2022.06.16-11.49.46:594][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_3321137FC4CE05E859BE10B87811B9685.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_3.uasset'
+[2022.06.16-11.49.46:598][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_8
+[2022.06.16-11.49.46:598][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_841F6192E4BB8FB1B146ED58CA77C066C.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_8.uasset'
+[2022.06.16-11.49.46:603][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_9
+[2022.06.16-11.49.46:603][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_9AB03798E471EE61B9432FBAE029E43F8.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_9.uasset'
+[2022.06.16-11.49.46:607][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_10
+[2022.06.16-11.49.46:608][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_10EA9936BD496F2E4B2102F883FEA301BB.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_10.uasset'
+[2022.06.16-11.49.46:612][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_11
+[2022.06.16-11.49.46:612][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_11EA6E148A46CAC6523CA215A15A4774E6.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_11.uasset'
+[2022.06.16-11.49.46:616][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_12
+[2022.06.16-11.49.46:616][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_1259F45AB54AF1526FDB8D1BB74613E1E0.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_12.uasset'
+[2022.06.16-11.49.46:620][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_13
+[2022.06.16-11.49.46:620][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_1342DA7715453A2A4708A09FB7699E2081.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_13.uasset'
+[2022.06.16-11.49.46:625][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_14
+[2022.06.16-11.49.46:625][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_1422C44A4F489DAD58DBE03EB329601B67.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_14.uasset'
+[2022.06.16-11.49.46:628][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_15
+[2022.06.16-11.49.46:629][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_154C09310B45AC897426B3D793173C86CD.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_15.uasset'
+[2022.06.16-11.49.46:633][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_16
+[2022.06.16-11.49.46:633][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_168246AE5344EE4DDF78AE25913AE6A60F.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_16.uasset'
+[2022.06.16-11.49.46:637][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_17
+[2022.06.16-11.49.46:637][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_1756655D1B4B2067847D542A994D7329C9.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_17.uasset'
+[2022.06.16-11.49.46:641][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_24
+[2022.06.16-11.49.46:641][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_24F908AF714009088D5CC925ACDF297706.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_24.uasset'
+[2022.06.16-11.49.46:645][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_25
+[2022.06.16-11.49.46:645][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_251036E22446A9F83FB7FF548AADA7631F.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_25.uasset'
+[2022.06.16-11.49.46:649][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_26
+[2022.06.16-11.49.46:649][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_2629BB5E5F4650CA5A81A340BA8DE98A45.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_26.uasset'
+[2022.06.16-11.49.46:653][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_32
+[2022.06.16-11.49.46:653][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_32570938864C692D350D7FD8903B9DEAE0.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_32.uasset'
+[2022.06.16-11.49.46:657][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_33
+[2022.06.16-11.49.46:657][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_330F5CB80C436BF6AD03A4DB9AEB856C48.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_33.uasset'
+[2022.06.16-11.49.46:661][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_40
+[2022.06.16-11.49.46:661][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_400363DFC24E1081D31BF393865E72FD9F.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_40.uasset'
+[2022.06.16-11.49.46:665][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_41
+[2022.06.16-11.49.46:665][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_41728C22924A6B1558F155D0BBEF7A6964.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_41.uasset'
+[2022.06.16-11.49.46:669][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_42
+[2022.06.16-11.49.46:669][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_4299BBF0A944E24F2FA319358B40DEF01A.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_42.uasset'
+[2022.06.16-11.49.46:675][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_48
+[2022.06.16-11.49.46:676][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_48CDFA091E4728166346F5D5A8F46C6E38.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_48.uasset'
+[2022.06.16-11.49.46:681][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_49
+[2022.06.16-11.49.46:681][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_49602D6AB346190115A54775BF408F8BEC.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_49.uasset'
+[2022.06.16-11.49.46:684][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_56
+[2022.06.16-11.49.46:685][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_562B8BF42E4C4E579958A88C9F555E8F29.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_56.uasset'
+[2022.06.16-11.49.46:689][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_57
+[2022.06.16-11.49.46:689][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_570F287B5246EA5A90896ACC83B5C92C38.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_57.uasset'
+[2022.06.16-11.49.46:694][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_58
+[2022.06.16-11.49.46:694][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_5845DBE8D748F3863CABE9538B5C3B0D22.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_58.uasset'
+[2022.06.16-11.49.46:699][ 97]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_59
+[2022.06.16-11.49.46:699][ 97]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid_Sprite_590B2085D943C4129B36E3C0B0C5BFD948.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid_Sprite_59.uasset'
+[2022.06.16-11.49.46:837][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.16-11.49.46:845][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.06.16-11.49.46:852][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.06.16-11.49.46:894][ 97]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_59.Connectoid_Sprite_59
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_58.Connectoid_Sprite_58
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_57.Connectoid_Sprite_57
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_56.Connectoid_Sprite_56
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_49.Connectoid_Sprite_49
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_48.Connectoid_Sprite_48
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_42.Connectoid_Sprite_42
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_41.Connectoid_Sprite_41
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_40.Connectoid_Sprite_40
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_33.Connectoid_Sprite_33
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_32.Connectoid_Sprite_32
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_26.Connectoid_Sprite_26
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_25.Connectoid_Sprite_25
+[2022.06.16-11.49.46:894][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_24.Connectoid_Sprite_24
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_17.Connectoid_Sprite_17
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_16.Connectoid_Sprite_16
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_15.Connectoid_Sprite_15
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_14.Connectoid_Sprite_14
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_13.Connectoid_Sprite_13
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_12.Connectoid_Sprite_12
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_11.Connectoid_Sprite_11
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_10.Connectoid_Sprite_10
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_9.Connectoid_Sprite_9
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_8.Connectoid_Sprite_8
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_3.Connectoid_Sprite_3
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_2.Connectoid_Sprite_2
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_1.Connectoid_Sprite_1
+[2022.06.16-11.49.46:895][ 97]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Connectoid/Connectoid_Sprite_0.Connectoid_Sprite_0
+[2022.06.16-11.49.49:711][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_0" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_0.uasset" SILENT=true
+[2022.06.16-11.49.49:713][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_0
+[2022.06.16-11.49.49:714][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_0EF61C03A428AD1D3D6E7A7BBF37BDF6F.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_0.uasset'
+[2022.06.16-11.49.49:719][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_1" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_1.uasset" SILENT=true
+[2022.06.16-11.49.49:721][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_1
+[2022.06.16-11.49.49:721][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_1D29A8EB946E86ED16E78FEB1CF4CCC77.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_1.uasset'
+[2022.06.16-11.49.49:723][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_2" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_2.uasset" SILENT=true
+[2022.06.16-11.49.49:726][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_2
+[2022.06.16-11.49.49:726][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_2F0FF66F4426DEF101680919E5764124F.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_2.uasset'
+[2022.06.16-11.49.49:729][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_3" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_3.uasset" SILENT=true
+[2022.06.16-11.49.49:731][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_3
+[2022.06.16-11.49.49:731][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_31D749E9241092531CBC3239FA24347BD.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_3.uasset'
+[2022.06.16-11.49.49:734][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_14" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_14.uasset" SILENT=true
+[2022.06.16-11.49.49:736][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_14
+[2022.06.16-11.49.49:736][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_14DB996599461460DF0651379EB58DE75D.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_14.uasset'
+[2022.06.16-11.49.49:738][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_15" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_15.uasset" SILENT=true
+[2022.06.16-11.49.49:741][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_15
+[2022.06.16-11.49.49:741][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_158D766BB44E7D7672619764882BCEE72A.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_15.uasset'
+[2022.06.16-11.49.49:743][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_16" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_16.uasset" SILENT=true
+[2022.06.16-11.49.49:745][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_16
+[2022.06.16-11.49.49:746][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_161FE7688F4B25D3B7B696EEAF3A7FC511.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_16.uasset'
+[2022.06.16-11.49.49:748][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_17" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_17.uasset" SILENT=true
+[2022.06.16-11.49.49:749][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_17
+[2022.06.16-11.49.49:749][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_17BCAD59A44DB7535B8C00D78B31D46CD7.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_17.uasset'
+[2022.06.16-11.49.49:751][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_18" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_18.uasset" SILENT=true
+[2022.06.16-11.49.49:753][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_18
+[2022.06.16-11.49.49:753][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_185B3A9E2B491B8326AE2C7FAC2E8E8549.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_18.uasset'
+[2022.06.16-11.49.49:756][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_19" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_19.uasset" SILENT=true
+[2022.06.16-11.49.49:758][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_19
+[2022.06.16-11.49.49:758][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_194948A2D043B89EE7E6C13AAC4028E802.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_19.uasset'
+[2022.06.16-11.49.49:761][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_20" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_20.uasset" SILENT=true
+[2022.06.16-11.49.49:763][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_20
+[2022.06.16-11.49.49:763][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_20B67BB16C40C670E484CE549C996355D4.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_20.uasset'
+[2022.06.16-11.49.49:765][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_21" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_21.uasset" SILENT=true
+[2022.06.16-11.49.49:767][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_21
+[2022.06.16-11.49.49:767][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_21B20CB7554130A4AB2566F8B6C72EC20E.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_21.uasset'
+[2022.06.16-11.49.49:770][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_22" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_22.uasset" SILENT=true
+[2022.06.16-11.49.49:772][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_22
+[2022.06.16-11.49.49:772][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_2272E99B514ED0A6B8DB10D98122EB4390.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_22.uasset'
+[2022.06.16-11.49.49:774][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_23" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_23.uasset" SILENT=true
+[2022.06.16-11.49.49:777][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_23
+[2022.06.16-11.49.49:777][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_23648A6DF140E7CA672EDC5CBE665AAE85.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_23.uasset'
+[2022.06.16-11.49.49:779][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_24" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_24.uasset" SILENT=true
+[2022.06.16-11.49.49:781][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_24
+[2022.06.16-11.49.49:781][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_2438A6CE49460B0C67E7DFD8988DCF9743.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_24.uasset'
+[2022.06.16-11.49.49:784][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_25" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_25.uasset" SILENT=true
+[2022.06.16-11.49.49:786][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_25
+[2022.06.16-11.49.49:786][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_25BA0D857C4CC15B22D0B4679FE494A407.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_25.uasset'
+[2022.06.16-11.49.49:788][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_26" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_26.uasset" SILENT=true
+[2022.06.16-11.49.49:790][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_26
+[2022.06.16-11.49.49:791][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_261C16BB084EAD8B80A5406EA42C622936.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_26.uasset'
+[2022.06.16-11.49.49:794][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy_Enemy_27" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_27.uasset" SILENT=true
+[2022.06.16-11.49.49:796][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy_Enemy_27
+[2022.06.16-11.49.49:796][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Enemy_Enemy_276DD1B5D84DA1EF6BDD0B0486F350ABC5.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy_Enemy_27.uasset'
+[2022.06.16-11.49.49:796][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Enemy/Enemy" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy.uasset" SILENT=true
+[2022.06.16-11.49.49:798][238]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Enemy/Enemy
+[2022.06.16-11.49.49:798][238]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/EnemyB70761254DC4083FCDE3D79B51CD60E3.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Enemy/Enemy.uasset'
+[2022.06.16-11.49.49:823][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.16-11.49.49:831][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.16-11.49.49:838][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.06.16-11.49.49:860][238]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_21.Enemy_Enemy_21
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Sprites/Enemy/Enemy.Enemy
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_0.Enemy_Enemy_0
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_1.Enemy_Enemy_1
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_2.Enemy_Enemy_2
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_3.Enemy_Enemy_3
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_27.Enemy_Enemy_27
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_26.Enemy_Enemy_26
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_25.Enemy_Enemy_25
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_24.Enemy_Enemy_24
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_20.Enemy_Enemy_20
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_23.Enemy_Enemy_23
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_22.Enemy_Enemy_22
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_18.Enemy_Enemy_18
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_19.Enemy_Enemy_19
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_16.Enemy_Enemy_16
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_17.Enemy_Enemy_17
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_15.Enemy_Enemy_15
+[2022.06.16-11.49.49:860][238]LogContentValidation: Display: Validating PaperSprite /Game/Graphics/Sprites/Enemy/Enemy_Enemy_14.Enemy_Enemy_14
+[2022.06.16-11.50.03:197][976]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid
+[2022.06.16-11.50.03:198][976]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.06.16-11.50.03:336][976]LogViewport: Scene viewport resized to 919x534, mode Windowed.
+[2022.06.16-11.50.09:413][264]LogViewport: Scene viewport resized to 919x522, mode Windowed.
+[2022.06.16-11.50.12:063][394]LogEditorFactories: Performing atomic reimport of [E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png]
+[2022.06.16-11.50.12:063][394]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png)
+[2022.06.16-11.50.12:072][394]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (BGRA8, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.12:072][394]LogEditorFactories: -- imported successfully
+[2022.06.16-11.50.12:090][394]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (BGRA8, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.13:882][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Connectoid/Connectoid" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset" SILENT=true
+[2022.06.16-11.50.13:890][455]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (TFO_AutoDXT, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.13:890][455]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid
+[2022.06.16-11.50.13:891][455]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid2BCA50404BCAA419A7C1AFAF0053AA45.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset'
+[2022.06.16-11.50.13:907][455]AssetCheck: New page: Asset Save: Connectoid
+[2022.06.16-11.50.13:907][455]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid
+[2022.06.16-11.50.18:759][663]LogEditorFactories: Performing atomic reimport of [E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png]
+[2022.06.16-11.50.18:759][663]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png)
+[2022.06.16-11.50.18:767][663]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (BGRA8, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.18:767][663]LogEditorFactories: -- imported successfully
+[2022.06.16-11.50.22:179][818]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (TFO_AutoDXT, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.30:391][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Connectoid/Connectoid" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset" SILENT=true
+[2022.06.16-11.50.30:395][202]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid
+[2022.06.16-11.50.30:395][202]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/ConnectoidFEEE4CCC4B5203699B2571940A4409E1.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset'
+[2022.06.16-11.50.30:408][202]AssetCheck: New page: Asset Save: Connectoid
+[2022.06.16-11.50.30:408][202]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid
+[2022.06.16-11.50.31:997][282]LogEditorFactories: Performing atomic reimport of [E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png]
+[2022.06.16-11.50.31:998][282]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png)
+[2022.06.16-11.50.32:007][282]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (BGRA8, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.32:007][282]LogEditorFactories: -- imported successfully
+[2022.06.16-11.50.34:374][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Connectoid/Connectoid" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset" SILENT=true
+[2022.06.16-11.50.34:380][381]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (TFO_AutoDXT, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.34:380][381]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid
+[2022.06.16-11.50.34:380][381]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid7F5FCEEB4255FB8222895E8AA0905B61.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset'
+[2022.06.16-11.50.34:396][381]AssetCheck: New page: Asset Save: Connectoid
+[2022.06.16-11.50.34:396][381]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid
+[2022.06.16-11.50.35:843][451]LogEditorFactories: Performing atomic reimport of [E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png]
+[2022.06.16-11.50.35:843][451]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/MyProjects/lostrelicfirstgamejam/Assets/Graphics/Connectoid.png)
+[2022.06.16-11.50.35:851][451]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (BGRA8, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.50.35:852][451]LogEditorFactories: -- imported successfully
+[2022.06.16-11.50.42:360][756]LogTexture: Display: Building textures: /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid (TFO_AutoDXT, 272X264 X1X1) (Required Memory Estimate: 1.369629 MB), EncodeSpeed: Fast
+[2022.06.16-11.51.00:087][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Connectoid/Connectoid" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset" SILENT=true
+[2022.06.16-11.51.00:092][669]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid
+[2022.06.16-11.51.00:092][669]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid58859478473FE7BD9C1B72AA74AB7795.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset'
+[2022.06.16-11.51.00:106][669]AssetCheck: New page: Asset Save: Connectoid
+[2022.06.16-11.51.00:106][669]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid
+[2022.06.16-11.51.01:148][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Graphics/Sprites/Connectoid/Connectoid" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset" SILENT=true
+[2022.06.16-11.51.01:150][721]LogSavePackage: Moving output files for package: /Game/Graphics/Sprites/Connectoid/Connectoid
+[2022.06.16-11.51.01:150][721]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/Connectoid9B2908264BAE806C9D0A29B729AB1E0B.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Graphics/Sprites/Connectoid/Connectoid.uasset'
+[2022.06.16-11.51.01:164][721]AssetCheck: New page: Asset Save: Connectoid
+[2022.06.16-11.51.01:164][721]LogContentValidation: Display: Validating Texture2D /Game/Graphics/Sprites/Connectoid/Connectoid.Connectoid
+[2022.06.16-11.51.02:002][762]LogSlate: Window 'Connectoid' being destroyed
+[2022.06.16-11.51.02:009][762]LogSlate: Window 'Connectoid' being destroyed
+[2022.06.16-11.51.11:527][301]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_ATTACK.PF_ATTACK
+[2022.06.16-11.51.11:637][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.51.11:822][301]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.51.50:277][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_ATTACK" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_ATTACK.uasset" SILENT=true
+[2022.06.16-11.51.50:280][451]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_ATTACK
+[2022.06.16-11.51.50:280][451]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_ATTACK5133FFFB4A7B99E7AE2387917D4DA9F8.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_ATTACK.uasset'
+[2022.06.16-11.51.50:293][451]AssetCheck: New page: Asset Save: PF_ATTACK
+[2022.06.16-11.51.50:293][451]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_ATTACK.PF_ATTACK
+[2022.06.16-11.51.55:233][723]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_ATTACK_IMPACT.PF_ATTACK_IMPACT
+[2022.06.16-11.51.55:234][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.51.55:358][723]LogViewport: Scene viewport resized to 839x401, mode Windowed.
+[2022.06.16-11.51.57:476][810]LogViewport: Scene viewport resized to 836x424, mode Windowed.
+[2022.06.16-11.51.57:571][812]LogViewport: Scene viewport resized to 532x182, mode Windowed.
+[2022.06.16-11.51.57:929][832]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.51.58:343][856]LogSlate: Window 'PF_ATTACK_IMPACT' being destroyed
+[2022.06.16-11.52.42:101][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_ATTACK_IMPACT" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_ATTACK_IMPACT.uasset" SILENT=true
+[2022.06.16-11.52.42:102][231]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_ATTACK_IMPACT
+[2022.06.16-11.52.42:103][231]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_ATTACK_IMPACT4AD49AC8411B097775E9D2ADA70401AA.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_ATTACK_IMPACT.uasset'
+[2022.06.16-11.52.42:117][231]AssetCheck: New page: Asset Save: PF_ATTACK_IMPACT
+[2022.06.16-11.52.42:117][231]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_ATTACK_IMPACT.PF_ATTACK_IMPACT
+[2022.06.16-11.52.46:941][459]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_FALL.PF_FALL
+[2022.06.16-11.52.46:942][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.52.46:998][459]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.52.59:058][ 71]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_IDLE.PF_IDLE
+[2022.06.16-11.52.59:058][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.52.59:112][ 71]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.53.01:251][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_FALL" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_FALL.uasset" SILENT=true
+[2022.06.16-11.53.01:254][189]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_FALL
+[2022.06.16-11.53.01:254][189]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_FALL5B8337EC4B83C8FEC8AAD28EBB70B0AB.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_FALL.uasset'
+[2022.06.16-11.53.01:267][189]AssetCheck: New page: Asset Save: PF_FALL
+[2022.06.16-11.53.01:267][189]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_FALL.PF_FALL
+[2022.06.16-11.53.14:382][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_IDLE" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_IDLE.uasset" SILENT=true
+[2022.06.16-11.53.14:383][896]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_IDLE
+[2022.06.16-11.53.14:384][896]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_IDLE7C108F9F4680E37FEB8115B0D5324358.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_IDLE.uasset'
+[2022.06.16-11.53.14:398][896]AssetCheck: New page: Asset Save: PF_IDLE
+[2022.06.16-11.53.14:398][896]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_IDLE.PF_IDLE
+[2022.06.16-11.53.16:193][984]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.53.16:193][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.53.16:775][ 18]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.53.16:776][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.53.17:445][ 56]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.53.17:445][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.53.18:112][ 95]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.53.18:112][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.53.22:271][322]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_JUMP.PF_JUMP
+[2022.06.16-11.53.22:271][322]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.53.22:321][322]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.53.22:754][347]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_RUN.PF_RUN
+[2022.06.16-11.53.22:755][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.53.22:801][347]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.53.23:221][370]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_TR_ATTACK.PF_TR_ATTACK
+[2022.06.16-11.53.23:222][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.53.23:269][370]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.53.23:654][391]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_TR_FALL.PF_TR_FALL
+[2022.06.16-11.53.23:655][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.53.23:713][391]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.53.24:286][423]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Player/Flipbooks/PF_TR_JUMP.PF_TR_JUMP
+[2022.06.16-11.53.24:287][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.16-11.53.24:335][423]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.53.36:829][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_JUMP" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_JUMP.uasset" SILENT=true
+[2022.06.16-11.53.36:830][146]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_JUMP
+[2022.06.16-11.53.36:830][146]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_JUMPFA63ED5141155F0563D29B984E3BB785.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_JUMP.uasset'
+[2022.06.16-11.53.36:845][146]AssetCheck: New page: Asset Save: PF_JUMP
+[2022.06.16-11.53.36:845][146]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_JUMP.PF_JUMP
+[2022.06.16-11.53.37:809][203]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.53.37:809][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.53.47:394][748]LogViewport: Scene viewport resized to 1296x780, mode Windowed.
+[2022.06.16-11.53.47:988][783]LogViewport: Scene viewport resized to 1296x765, mode Windowed.
+[2022.06.16-11.55.10:299][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_RUN" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_RUN.uasset" SILENT=true
+[2022.06.16-11.55.10:300][402]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_RUN
+[2022.06.16-11.55.10:301][402]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_RUNFA2444D64D152F95ABAA0FAB2DBA8D0C.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_RUN.uasset'
+[2022.06.16-11.55.10:312][402]AssetCheck: New page: Asset Save: PF_RUN
+[2022.06.16-11.55.10:312][402]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_RUN.PF_RUN
+[2022.06.16-11.55.27:879][417]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.55.27:879][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.55.45:393][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_TR_FALL" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_FALL.uasset" SILENT=true
+[2022.06.16-11.55.45:394][356]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_TR_FALL
+[2022.06.16-11.55.45:395][356]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_TR_FALL6CD86A12490484BD6CDF178BBAF1EFFB.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_FALL.uasset'
+[2022.06.16-11.55.45:405][356]AssetCheck: New page: Asset Save: PF_TR_FALL
+[2022.06.16-11.55.45:405][356]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_TR_FALL.PF_TR_FALL
+[2022.06.16-11.55.51:094][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_TR_FALL" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_FALL.uasset" SILENT=true
+[2022.06.16-11.55.51:095][685]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_TR_FALL
+[2022.06.16-11.55.51:096][685]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_TR_FALLC863AC0945EB674989F9F78DDCEB2155.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_FALL.uasset'
+[2022.06.16-11.55.51:106][685]AssetCheck: New page: Asset Save: PF_TR_FALL
+[2022.06.16-11.55.51:106][685]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_TR_FALL.PF_TR_FALL
+[2022.06.16-11.56.03:341][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_TR_FALL" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_FALL.uasset" SILENT=true
+[2022.06.16-11.56.03:343][262]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_TR_FALL
+[2022.06.16-11.56.03:343][262]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_TR_FALLA9E078FF42723B7FDAE898B6496C2B25.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_FALL.uasset'
+[2022.06.16-11.56.03:354][262]AssetCheck: New page: Asset Save: PF_TR_FALL
+[2022.06.16-11.56.03:354][262]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_TR_FALL.PF_TR_FALL
+[2022.06.16-11.56.04:023][302]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.56.04:023][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.56.13:956][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Flipbooks/PF_TR_JUMP" FILE="E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_JUMP.uasset" SILENT=true
+[2022.06.16-11.56.13:957][852]LogSavePackage: Moving output files for package: /Game/Player/Flipbooks/PF_TR_JUMP
+[2022.06.16-11.56.13:957][852]LogSavePackage: Moving 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Saved/PF_TR_JUMPF1AED03348272E0BE881DBAAEE5E0A2C.tmp' to 'E:/MyProjects/lostrelicfirstgamejam/Connectoid/Content/Player/Flipbooks/PF_TR_JUMP.uasset'
+[2022.06.16-11.56.13:969][852]AssetCheck: New page: Asset Save: PF_TR_JUMP
+[2022.06.16-11.56.13:969][852]LogContentValidation: Display: Validating PaperFlipbook /Game/Player/Flipbooks/PF_TR_JUMP.PF_TR_JUMP
+[2022.06.16-11.56.14:703][896]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.56.14:703][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.56.15:555][946]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.16-11.56.15:555][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.16-11.56.18:165][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player2D.BP_Player2D
+[2022.06.16-11.56.18:225][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
