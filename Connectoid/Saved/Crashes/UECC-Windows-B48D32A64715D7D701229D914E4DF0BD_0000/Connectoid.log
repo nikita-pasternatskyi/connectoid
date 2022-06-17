@@ -1,0 +1,1544 @@
+﻿Log file open, 06/17/22 17:53:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11648)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Connectoid
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/MyGames/lost-relic-first-game-jam/Connectoid/Connectoid.uproject -EpicPortal -epicusername=NikPasternatskyi -epicuserid=f2504257173c4791b348468a17bc5fa6 -epiclocale=de -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1766] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2048408d429c597c616410b72466bc72"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.727172
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B48D32A64715D7D701229D914E4DF0BD
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1766] (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=NikPasternatskyi -epicuserid=f2504257173c4791b348468a17bc5fa6 -epiclocale=de -epicsandboxid=ue
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.17-15.53.10:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.17-15.53.10:053][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.17-15.53.10:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.17-15.53.10:054][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.17-15.53.10:057][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.17-15.53.10:074][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.17-15.53.10:074][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.17-15.53.10:286][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.17-15.53.10:286][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 1 output[s]
+[2022.06.17-15.53.10:310][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.06.17-15.53.10:310][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 0 output[s]
+[2022.06.17-15.53.10:318][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.17-15.53.10:318][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 0 output[s]
+[2022.06.17-15.53.10:318][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.17-15.53.10:318][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.17-15.53.10:318][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.17-15.53.10:318][  0]LogHAL: Display: Platform has ~ 16 GB [17054285824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.17-15.53.10:318][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.17-15.53.10:318][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.17-15.53.10:318][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.17-15.53.10:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.17-15.53.10:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.17-15.53.10:319][  0]LogInit: Computer: DESKTOP-CL61EF0
+[2022.06.17-15.53.10:319][  0]LogInit: User: NikitaPasternatskyi
+[2022.06.17-15.53.10:319][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.17-15.53.10:319][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.17-15.53.10:319][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.06.17-15.53.10:319][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.17-15.53.10:319][  0]LogMemory: Process Physical Memory: 267.43 MB used, 272.30 MB peak
+[2022.06.17-15.53.10:319][  0]LogMemory: Process Virtual Memory: 214.60 MB used, 214.60 MB peak
+[2022.06.17-15.53.10:319][  0]LogMemory: Physical Memory: 11809.97 MB used,  4454.26 MB free, 16264.23 MB total
+[2022.06.17-15.53.10:319][  0]LogMemory: Virtual Memory: 18017.45 MB used,  9510.79 MB free, 27528.23 MB total
+[2022.06.17-15.53.10:319][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.17-15.53.10:325][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.17-15.53.10:341][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.17-15.53.10:342][  0]LogInit: Using OS detected language (de-DE).
+[2022.06.17-15.53.10:342][  0]LogInit: Using OS detected locale (de-DE).
+[2022.06.17-15.53.10:344][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so 'de' will be used for the language.
+[2022.06.17-15.53.10:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2022.06.17-15.53.10:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2022.06.17-15.53.10:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2022.06.17-15.53.10:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2022.06.17-15.53.10:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2022.06.17-15.53.10:344][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2022.06.17-15.53.10:345][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2022.06.17-15.53.10:345][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.17-15.53.10:363][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.17-15.53.10:363][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - (Keyboard).
+[2022.06.17-15.53.10:363][  0]LogWindowsTextInputMethodSystem:   - Ukrainisch (Ukraine) - (Keyboard).
+[2022.06.17-15.53.10:363][  0]LogWindowsTextInputMethodSystem:   - Russisch (Russische Föderation) - (Keyboard).
+[2022.06.17-15.53.10:363][  0]LogWindowsTextInputMethodSystem:   - Englisch (Vereinigte Staaten) - (Keyboard).
+[2022.06.17-15.53.10:363][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - Fingereingabe - Korrektur (TSF IME).
+[2022.06.17-15.53.10:363][  0]LogWindowsTextInputMethodSystem: Activated input method: Englisch (Vereinigte Staaten) - (Keyboard).
+[2022.06.17-15.53.10:391][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.17-15.53.10:391][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.17-15.53.10:546][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.17-15.53.10:552][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.17-15.53.10:552][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.17-15.53.10:641][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.17-15.53.10:715][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.17-15.53.10:725][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.17-15.53.10:742][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.17-15.53.10:753][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.17-15.53.10:753][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.17-15.53.10:794][  0]LogD3D12RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.17-15.53.10:794][  0]LogWindows: Attached monitors:
+[2022.06.17-15.53.10:794][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.17-15.53.10:794][  0]LogWindows: Found 1 attached monitors.
+[2022.06.17-15.53.10:794][  0]LogWindows: EnumDisplayDevices:
+[2022.06.17-15.53.10:795][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.17-15.53.10:795][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.17-15.53.10:795][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.17-15.53.10:795][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.17-15.53.10:795][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.06.17-15.53.10:796][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.06.17-15.53.10:796][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.06.17-15.53.10:796][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.06.17-15.53.10:796][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.06.17-15.53.10:796][  0]LogD3D12RHI:   Driver Version: 512.95 (internal:30.0.15.1295, unified:512.95)
+[2022.06.17-15.53.10:796][  0]LogD3D12RHI:      Driver Date: 5-19-2022
+[2022.06.17-15.53.10:796][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.06.17-15.53.10:796][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.17-15.53.10:796][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.17-15.53.10:811][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.17-15.53.10:816][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/MyGames/lost-relic-first-game-jam/Connectoid/Connectoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/MyGames/lost-relic-first-game-jam/Connectoid/Intermediate/TurnkeyReport_0.log" -log="E:/MyGames/lost-relic-first-game-jam/Connectoid/Intermediate/TurnkeyLog_0.log" -project="E:/MyGames/lost-relic-first-game-jam/Connectoid/Connectoid.uproject"  -platform=all'
+[2022.06.17-15.53.10:816][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/MyGames/lost-relic-first-game-jam/Connectoid/Connectoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/MyGames/lost-relic-first-game-jam/Connectoid/Intermediate/TurnkeyReport_0.log" -log="E:/MyGames/lost-relic-first-game-jam/Connectoid/Intermediate/TurnkeyLog_0.log" -project="E:/MyGames/lost-relic-first-game-jam/Connectoid/Connectoid.uproject"  -platform=all" ]
+[2022.06.17-15.53.10:841][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.17-15.53.10:848][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.17-15.53.10:848][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.17-15.53.10:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.17-15.53.10:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.17-15.53.10:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.17-15.53.10:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.17-15.53.10:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.17-15.53.10:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.17-15.53.10:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.17-15.53.10:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.17-15.53.10:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.17-15.53.10:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.17-15.53.10:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.17-15.53.10:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.17-15.53.10:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.17-15.53.10:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.17-15.53.10:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.17-15.53.10:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.17-15.53.10:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.17-15.53.10:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.17-15.53.10:901][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.17-15.53.10:908][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.17-15.53.10:911][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.17-15.53.10:911][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.17-15.53.10:911][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.17-15.53.10:911][  0]LogTargetPlatformManager:   PCM
+[2022.06.17-15.53.10:914][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.17-15.53.10:914][  0]LogTargetPlatformManager:   BINKA
+[2022.06.17-15.53.10:914][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.17-15.53.10:914][  0]LogTargetPlatformManager:   OGG
+[2022.06.17-15.53.10:914][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.17-15.53.10:914][  0]LogTargetPlatformManager:   OPUS
+[2022.06.17-15.53.10:963][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.17-15.53.10:970][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.17-15.53.10:973][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.06.17-15.53.10:973][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.17-15.53.10:973][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.17-15.53.10:973][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.17-15.53.10:973][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.17-15.53.10:973][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.17-15.53.10:973][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.17-15.53.10:973][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.17-15.53.10:973][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.17-15.53.10:973][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/MyGames/lost-relic-first-game-jam/Connectoid/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.17-15.53.10:973][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.17-15.53.10:973][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/MyGames/lost-relic-first-game-jam/Connectoid/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.17-15.53.10:973][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.17-15.53.10:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/MyGames/lost-relic-first-game-jam/Connectoid/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.17-15.53.10:976][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.17-15.53.10:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/MyGames/lost-relic-first-game-jam/Connectoid/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.17-15.53.10:976][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.17-15.53.10:996][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.17-15.53.10:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.17-15.53.10:996][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.17-15.53.11:004][  0]LogDerivedDataCache: Speed tests for C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.17-15.53.11:004][  0]LogDerivedDataCache: Display: Performance to C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1409.26MBs, RandomWriteSpeed=120.42MBs. Assigned SpeedClass 'Local'
+[2022.06.17-15.53.11:007][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.17-15.53.11:007][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.17-15.53.11:007][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.17-15.53.11:016][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.17-15.53.11:016][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.17-15.53.11:016][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (E:/MyGames/lost-relic-first-game-jam/Connectoid/Intermediate/Shaders/WorkingDirectory/18084/).
+[2022.06.17-15.53.11:017][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NikitaPasternatskyi/AppData/Local/Temp/UnrealShaderWorkingDir/2B1508F648862FC2104A879F7660EA62/'.
+[2022.06.17-15.53.11:017][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.17-15.53.11:017][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.06.17-15.53.12:588][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.17-15.53.12:588][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.17-15.53.12:625][  0]LogAssetRegistry: FAssetRegistry took 0.0114 seconds to start up
+[2022.06.17-15.53.12:630][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.17-15.53.12:827][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.17-15.53.12:827][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.17-15.53.13:049][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.17-15.53.13:049][  0]LogDeviceProfileManager: Active device profile: [00000B31E2CCD580][00000B31C8F25000 50] WindowsEditor
+[2022.06.17-15.53.13:049][  0]LogDeviceProfileManager: Profiles: [00000B31E2CCD740][00000B31DA407800 50] Windows, [00000B31E2CCD580][00000B31C8F25000 50] WindowsEditor, [00000B31E2CC9300][00000B31DA460000 50] WindowsServer, [00000B31E2CCD040][00000B31E49D0000 50] WindowsClient, [00000B31E2CC9D80][00000B31E49D5000 50] IOS, [00000B31E2CCA100][00000B31E49D7800 50] iPadAir2, [00000B31E2CCE700][00000B31E49DC800 50] IPadPro, [00000B31E2CCEA80][00000B31E49DA000 50] iPadAir3, [00000B31E2CCE1C0][00000B31DA462800 50] iPadAir4, [00000B31E2CCA640][00000B31E2FE0000 50] iPadMini4, [00000B31E2CC9BC0][00000B31E2FE5000 50] iPadMini5, [00000B31E2CCA800][00000B31E2FE7800 50] iPadMini6, [00000B31E4A516C0][00000B31E49D2800 50] iPhone6S, [00000B31E4A51A40][00000B31E2FEC800 50] iPhone7, [00000B31E4A51DC0][00000B31E2FEA000 50] iPodTouch7, [00000B31E4A52680][00000B31E4A30000 50] iPhone6SPlus, [00000B31E4A50380][00000B31E4A35000 50] iPhone7Plus, [00000B31E4A50540][00000B31E4A37800 50] iPhoneSE, [00000B31E4A51C00][00000B31E4A3A000 50] iPhone8, [00000B31E4A51500][00000B31E4A3C800 50] iPhone8Plus, [00000B31E4A50E00][00000B31E2FE2800 50] iPhoneX, [00000B31E4A53B80][00000B31E4A20000 50] iPhoneXS, [00000B31E4A50000][00000B31E4A25000 50] iPhoneXSMax, [00000B31E4A53640][00000B31E4A27800 50] iPhoneXR, [00000B31E4A52BC0][00000B31E4A2A000 50] iPhone11, [00000B31E4A53D40][00000B31E4A2C800 50] iPhone11Pro, [00000B31E4A52D80][00000B31E4A32800 50] iPhone11ProMax, [00000B31E4A524C0][00000B31E4A40000 50] iPhoneSE2, [00000B31E4A50A80][00000B31E4A45000 50] iPhone12Mini, [00000B31E4A51340][00000B31E4A47800 50] iPhone12, [00000B31E4A54B40][00000B31E4A4A000 50] iPhone12Pro, [00000B31E4A52140][00000B31E4A4C800 50] iPhone12ProMax, [00000B31E4A54600][00000B31E4A22800 50] iPhone13Mini, [00000B31E4A51880][00000B31E49C0000 50] iPhone13, [00000B31E4A54D00][00000B31E49C5000 50] iPhone13Pro, [00000B31E4A52F40][00000B31E49C7800 50] iPhone13ProMax, [00000B31E4A50C40][00000B31E49CA000 50] iPadPro105, [00000B31E4A53480][00000B31E49CC800 50] iPadPro129, [00000B31E4A52300][00000B31E4A42800 50] iPadPro97, [00000B31E4A55B00][00000B31E4A60000 50] iPadPro2_129, [00000B31E4A52A00][00000B31E4A65000 50] iPad5, [00000B31E4A555C0][00000B31E4A67800 50] iPad6, [00000B31E4A50FC0][00000B31E4A6A000 50] iPad7, [00000B31E4A55CC0][00000B31E4A6C800 50] iPad8, [00000B31E4A53F00][00000B31E49C2800 50] iPad9, [00000B31E4A53100][00000B31E4A80000 50] iPadPro11, [00000B31E4A54440][00000B31E4A85000 50] iPadPro2_11, [00000B31E4A51F80][00000B31E4A87800 50] iPadPro3_11, [00000B31E4A56AC0][00000B31E4A8A000 50] iPadPro3_129, [00000B31E4A539C0][00000B31E4A8C800 50] iPadPro4_129, [00000B31E4A56580][00000B31E4A62800 50] iPadPro5_129, [00000B31E4A53800][00000B31E49F0000 50] AppleTV, [00000B31E4A56C80][00000B31E49F5000 50] AppleTV4K, [00000B31E4A54EC0][00000B31E49F7800 50] TVOS, [00000B31E4A58C00][00000B31E49FC800 50] Mac, [00000B31E4A58F80][00000B31E49FA000 50] MacEditor, [00000B31E4A56900][00000B31E4A82800 50] MacClient, [00000B31E4A57700][00000B31E4AA0000 50] MacServer, [00000B31E4A547C0][00000B31E4AA7800 50] Linux, [00000B31E4A56200][00000B31E4AA5000 50] LinuxEditor, [00000B31E4A57A80][00000B31E4AAA000 50] LinuxArm64Editor, [00000B31E4A59840][00000B31E4AAC800 50] LinuxArm64, [00000B31E4A58340][00000B31E49F2800 50] LinuxClient, [00000B31E4A58500][00000B31E4AB0000 50] LinuxArm64Client, [00000B31E4A563C0][00000B31E4AB5000 50] LinuxServer, [00000B31E4A54280][00000B31E4AB7800 50] LinuxArm64Server, [00000B31E4A54980][00000B31E4ABA000 50] Android, [00000B31E4A56E40][00000B31E4ABC800 50] Android_Preview_OpenGL, [00000B31E4A532C0][00000B31E4AA2800 50] Android_Preview_Vulkan, [00000B31E4A58A40][00000B31E4AC0000 50] Android_Low, [00000B31E4A56040][00000B31E4AC5000 50] Android_Mid, [00000B31E4A571C0][00000B31E4AC7800 50] Android_High, [00000B31E4A59A00][00000B31E4ACA000 50] Android_Default, [00000B31E4A57540][00000B31E4ACC800 50] Android_Adreno4xx, [00000B31E4A55940][00000B31E4AB2800 50] Android_Adreno5xx_Low, [00000B31E4A57E00][00000B31E4AD0000 50] Android_Adreno5xx, [00000B31E4A55240][00000B31E4AD5000 50] Android_Adreno6xx, [00000B31E4A58880][00000B31E4AD7800 50] Android_Adreno6xx_Vulkan, [00000B31E4A55E80][00000B31E4ADA000 50] Android_Adreno7xx, [00000B31E4A59BC0][00000B31E4ADC800 50] Android_Adreno7xx_Vulkan, [00000B31E4A55080][00000B31E4AC2800 50] Android_Mali_T6xx, [00000B31E4A55780][00000B31E4AE0000 50] Android_Mali_T7xx, [00000B31E4A57C40][00000B31E4AE5000 50] Android_Mali_T8xx, [00000B31E4A508C0][00000B31E4AE7800 50] Android_Mali_G71, [00000B31E4A5A9C0][00000B31E4AEA000 50] Android_Mali_G72, [00000B31E4A57FC0][00000B31E4AEC800 50] Android_Mali_G72_Vulkan, [00000B31E4A5A480][00000B31E4AD2800 50] Android_Mali_G76, [00000B31E4A55400][00000B31E4A90000 50] Android_Mali_G76_Vulkan, [00000B31E4A5AB80][00000B31E4A95000 50] Android_Mali_G77, [00000B31E4A586C0][00000B31E4A97800 50] Android_Mali_G77_Vulkan, [00000B31E4A57000][00000B31E4A9A000 50] Android_Mali_G78, [00000B31E4A59140][00000B31E4A9C800 50] Android_Mali_G78_Vulkan, [00000B31E4A59680][00000B31E4AE2800 50] Android_Mali_G710, [00000B31E4A5B980][00000B31E4B00000 50] Android_Mali_G710_Vulkan, [00000B31E4A578C0][00000B31E4B05000 50] Android_Xclipse_920, [00000B31E4A5B440][00000B31E4B07800 50] Android_Xclipse_920_Vulkan, [00000B31E4A52840][00000B31E4B0A000 50] Android_Vulkan_SM5, [00000B31E4A540C0][00000B31E4B0C800 50] Android_PowerVR_G6xxx, [00000B31E4A5BB40][00000B31E4A92800 50] Android_PowerVR_GT7xxx, [00000B31E4A59300][00000B31E2FD0000 50] Android_PowerVR_GE8xxx, [00000B31E4A5B7C0][00000B31E2FD5000 50] Android_PowerVR_GM9xxx, [00000B31E4A5C940][00000B31E2FD7800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B31E4A501C0][00000B31E2FDA000 50] Android_TegraK1, [00000B31E4A5C400][00000B31E2FDC800 50] Android_Unknown_Vulkan, [00000B31E4A5B280][00000B31E4B02800 50] Oculus_Quest, [00000B31E4A5CB00][00000B31E4B20000 50] Oculus_Quest2, [00000B31E4A5B600][00000B31E4B25000 50] HoloLens, 
+[2022.06.17-15.53.13:049][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.17-15.53.13:071][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.17-15.53.13:263][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.17-15.53.13:263][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.17-15.53.13:263][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.17-15.53.13:263][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.17-15.53.13:263][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.17-15.53.13:277][  0]LogNetVersion: Connectoid 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 728722460)
+[2022.06.17-15.53.13:397][  0]LogSlate: Border
+[2022.06.17-15.53.13:397][  0]LogSlate: BreadcrumbButton
+[2022.06.17-15.53.13:397][  0]LogSlate: Default
+[2022.06.17-15.53.13:397][  0]LogSlate: Icons.Save
+[2022.06.17-15.53.13:397][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.17-15.53.13:397][  0]LogSlate: ListView
+[2022.06.17-15.53.13:398][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.17-15.53.13:398][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.17-15.53.13:398][  0]LogSlate: TableView.DarkRow
+[2022.06.17-15.53.13:398][  0]LogSlate: TableView.Row
+[2022.06.17-15.53.13:398][  0]LogSlate: TreeView
+[2022.06.17-15.53.13:579][  0]SourceControl: Source control is disabled
+[2022.06.17-15.53.13:607][  0]SourceControl: Source control is disabled
+[2022.06.17-15.53.13:607][  0]SourceControl: Source control is disabled
+[2022.06.17-15.53.13:737][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.06.17-15.53.13:737][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.06.17-15.53.13:737][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.17-15.53.14:074][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 687565AB485726B5869381B691DC003E | Instance: 34EB9E964CD45CB5BDC02493480675C9 (DESKTOP-CL61EF0-18084).
+[2022.06.17-15.53.14:112][  0]LogPython: Using Python 3.9.7
+[2022.06.17-15.53.14:950][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.17-15.53.14:955][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.17-15.53.15:032][  0]SourceControl: Source control is disabled
+[2022.06.17-15.53.15:035][  0]SourceControl: Source control is disabled
+[2022.06.17-15.53.15:043][  0]SourceControl: Source control is disabled
+[2022.06.17-15.53.15:050][  0]LogUProjectInfo: Found projects:
+[2022.06.17-15.53.15:321][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.17-15.53.15:371][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.17-15.53.15:392][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.17-15.53.15:392][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.17-15.53.15:500][  0]LogCollectionManager: Loaded 0 collections in 0.000740 seconds
+[2022.06.17-15.53.15:578][  0]LogFileCache: Scanning file cache for directory 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Collections/' took 0.00s
+[2022.06.17-15.53.15:578][  0]LogFileCache: Scanning file cache for directory 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Developers/NikitaPasternatskyi/Collections/' took 0.00s
+[2022.06.17-15.53.15:578][  0]LogFileCache: Scanning file cache for directory 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Collections/' took 0.00s
+[2022.06.17-15.53.15:912][  0]LogEngine: Initializing Engine...
+[2022.06.17-15.53.15:927][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.06.17-15.53.15:928][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.17-15.53.16:203][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.17-15.53.16:204][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-15.53.16:215][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-15.53.16:247][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.17-15.53.16:248][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.17-15.53.16:272][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.17-15.53.16:273][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.17-15.53.16:273][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.17-15.53.16:273][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.17-15.53.16:273][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.17-15.53.16:273][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-15.53.16:273][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-15.53.16:273][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-15.53.16:273][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-15.53.16:273][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-15.53.16:273][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.17-15.53.16:273][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-15.53.16:273][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-15.53.16:274][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-15.53.16:274][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-15.53.16:274][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-15.53.16:279][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.17-15.53.16:317][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.17-15.53.16:317][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-15.53.16:319][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-15.53.16:319][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-15.53.16:320][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.17-15.53.16:320][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.17-15.53.16:321][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.17-15.53.16:321][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.17-15.53.16:321][  0]LogInit: FAudioDevice initialized.
+[2022.06.17-15.53.16:321][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.17-15.53.16:321][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.17-15.53.16:321][  0]LogInit: Texture streaming: Enabled
+[2022.06.17-15.53.16:358][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.17-15.53.16:371][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.17-15.53.16:396][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.17-15.53.16:403][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.17-15.53.16:404][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.17-15.53.17:530][  0]LogLiveCoding: Display: First instance in process group "UE_Connectoid_0xea96002d", spawning console
+[2022.06.17-15.53.17:530][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.17-15.53.17:530][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.17-15.53.17:554][  0]LogInit: Transaction tracking system initialized
+[2022.06.17-15.53.17:639][  0]BlueprintLog: New page: Editor Load
+[2022.06.17-15.53.17:854][  0]LocalizationService: Localization service is disabled
+[2022.06.17-15.53.17:910][  0]TimingProfiler: Initialize
+[2022.06.17-15.53.17:910][  0]TimingProfiler: OnSessionChanged
+[2022.06.17-15.53.17:910][  0]LoadingProfiler: Initialize
+[2022.06.17-15.53.17:910][  0]LoadingProfiler: OnSessionChanged
+[2022.06.17-15.53.17:910][  0]NetworkingProfiler: Initialize
+[2022.06.17-15.53.17:910][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.17-15.53.17:910][  0]MemoryProfiler: Initialize
+[2022.06.17-15.53.17:910][  0]MemoryProfiler: OnSessionChanged
+[2022.06.17-15.53.18:621][  0]LogFileCache: Scanning file cache for directory 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/' took 0.01s
+[2022.06.17-15.53.18:621][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.17-15.53.18:709][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.17-15.53.18:710][  0]SourceControl: Source control is disabled
+[2022.06.17-15.53.18:710][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.404
+[2022.06.17-15.53.18:711][  0]Cmd: MAP LOAD FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.17-15.53.18:711][  0]LightingResults: New page: Lighting Build
+[2022.06.17-15.53.18:719][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-15.53.18:719][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.53.18:720][  0]MapCheck: New page: Map Check
+[2022.06.17-15.53.18:720][  0]LightingResults: New page: Lighting Build
+[2022.06.17-15.53.18:727][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-15.53.18:731][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.17-15.53.18:921][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.06.17-15.53.18:921][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-15.53.18:921][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-15.53.18:922][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.17-15.53.18:926][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.17-15.53.18:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.17-15.53.18:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.17-15.53.18:940][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,1ms to complete.
+[2022.06.17-15.53.18:940][  0]LogFileHelpers: Loading map 'MainMenu' took 0.230
+[2022.06.17-15.53.18:955][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.649
+[2022.06.17-15.53.18:955][  0]LogShaderCompilers: Display: ================================================
+[2022.06.17-15.53.18:955][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.17-15.53.18:955][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.17-15.53.18:955][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.17-15.53.18:955][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.17-15.53.18:955][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.17-15.53.18:956][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.17-15.53.18:956][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.17-15.53.18:956][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.17-15.53.18:956][  0]LogShaderCompilers: Display: ================================================
+[2022.06.17-15.53.19:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.19:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.19:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.19:131][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.19:199][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:199][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:200][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:200][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:201][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:201][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:201][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:201][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:202][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:202][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:202][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:202][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:203][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:203][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:203][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:203][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:204][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:204][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:204][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.17-15.53.19:204][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.17-15.53.19:448][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.17-15.53.19:452][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.17-15.53.19:453][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.17-15.53.19:485][  0]LogViewport: Scene viewport resized to 1404x902, mode Windowed.
+[2022.06.17-15.53.19:508][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.17-15.53.19:925][  0]LogStall: Startup...
+[2022.06.17-15.53.19:927][  0]LogStall: Startup complete.
+[2022.06.17-15.53.19:940][  0]LogLoad: (Engine Initialization) Total time: 11.63 seconds
+[2022.06.17-15.53.19:940][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.17-15.53.20:016][  0]LogAssetRegistry: Asset discovery search completed in 7.3927 seconds
+[2022.06.17-15.53.20:025][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.17-15.53.20:056][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.17-15.53.20:984][ 50]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.17-15.53.24:692][239]LogViewport: Scene viewport resized to 443x284, mode Windowed.
+[2022.06.17-15.53.25:956][306]LogEditorViewport: Clicking Background
+[2022.06.17-15.53.27:003][364]LogViewport: Scene viewport resized to 443x284, mode Windowed.
+[2022.06.17-15.53.27:667][403]Cmd: DELETE
+[2022.06.17-15.53.27:667][403]Cmd: ACTOR DELETE
+[2022.06.17-15.53.28:207][403]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2022.06.17-15.53.28:208][403]LogEditorActor: Deleted Actor: BP_Player2D_C
+[2022.06.17-15.53.28:230][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.17-15.53.28:230][403]LogEditorActor: Deleted 2 Actors (0.156 secs)
+[2022.06.17-15.53.29:272][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.17-15.53.29:280][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.17-15.53.29:286][457]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004135 seconds
+[2022.06.17-15.53.29:290][457]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.06.17-15.53.29:290][457]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/MainMenu6C2510DC4DC7D3167AB7788E5BC2E1DD.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/MainMenu.umap'
+[2022.06.17-15.53.29:316][457]AssetCheck: New page: Asset Save: MainMenu
+[2022.06.17-15.53.29:316][457]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.06.17-15.53.29:654][478]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.17-15.53.29:661][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-15.53.29:662][478]PIE: New page: PIE session: MainMenu (17.06.2022, 19:53:29)
+[2022.06.17-15.53.29:666][478]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.17-15.53.29:666][478]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.17-15.53.29:666][478]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.06.17-15.53.29:667][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000997s)
+[2022.06.17-15.53.29:667][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001064s)
+[2022.06.17-15.53.29:667][478]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-15.53.29:667][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-15.53.29:667][478]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.17-15.53.29:668][478]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2022.06.17-15.53.29:675][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.17-15.53.29:676][478]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.17-15.53.29:676][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-15.53.29:676][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-15.53.29:676][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-15.53.29:676][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-15.53.29:676][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-15.53.29:676][478]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.17-15.53.29:676][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-15.53.29:676][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-15.53.29:676][478]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-15.53.29:676][478]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-15.53.29:676][478]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-15.53.29:678][478]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.17-15.53.29:691][478]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.17-15.53.29:691][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-15.53.29:691][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-15.53.29:691][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-15.53.29:693][478]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.17-15.53.29:693][478]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.17-15.53.29:694][478]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.17-15.53.29:694][478]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.17-15.53.29:694][478]LogInit: FAudioDevice initialized.
+[2022.06.17-15.53.29:694][478]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.06.17-15.53.29:707][478]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.17-15.53.29:707][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.06.17-17.53.29
+[2022.06.17-15.53.29:708][478]LogWorld: Bringing up level for play took: 0.000407
+[2022.06.17-15.53.29:709][478]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.06.17-15.53.29:916][478]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.17-15.53.29:916][478]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.17-15.53.29:916][478]PIE: Server logged in
+[2022.06.17-15.53.29:917][478]PIE: Play in editor total start time 0,257 seconds.
+[2022.06.17-15.53.31:829][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.31:829][590]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.06.17-15.53.31:829][590]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-15.53.31:829][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.53.31:838][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-15.53.31:840][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.53.31:848][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.31:848][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.17-15.53.31:850][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.17-15.53.31:854][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.17-15.53.31:897][593]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.06.17-15.53.33:785][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.17-15.53.33:792][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-15.53.33:792][690]PIE: New page: PIE session: MainMenu (17.06.2022, 19:53:33)
+[2022.06.17-15.53.33:792][690]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.06.17-15.53.33:793][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001077s)
+[2022.06.17-15.53.33:793][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001149s)
+[2022.06.17-15.53.33:793][690]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-15.53.33:794][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-15.53.33:794][690]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.17-15.53.33:795][690]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.06.17-15.53.33:803][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.06.17-15.53.33:803][690]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.17-15.53.33:804][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-15.53.33:804][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-15.53.33:804][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-15.53.33:804][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-15.53.33:804][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-15.53.33:804][690]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.17-15.53.33:804][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-15.53.33:804][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-15.53.33:804][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-15.53.33:804][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-15.53.33:804][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-15.53.33:806][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.17-15.53.33:819][690]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.17-15.53.33:819][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-15.53.33:819][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-15.53.33:819][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-15.53.33:820][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.17-15.53.33:820][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.17-15.53.33:821][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.17-15.53.33:821][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.17-15.53.33:821][690]LogInit: FAudioDevice initialized.
+[2022.06.17-15.53.33:821][690]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2022.06.17-15.53.33:834][690]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.17-15.53.33:834][690]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.06.17-17.53.33
+[2022.06.17-15.53.33:834][690]LogWorld: Bringing up level for play took: 0.000317
+[2022.06.17-15.53.33:836][690]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.06.17-15.53.33:837][690]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.17-15.53.33:837][690]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.17-15.53.33:837][690]PIE: Server logged in
+[2022.06.17-15.53.33:838][690]PIE: Play in editor total start time 0,046 seconds.
+[2022.06.17-15.53.35:066][752]LogViewport: Scene viewport resized to 443x284, mode Windowed.
+[2022.06.17-15.53.44:192][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.44:193][282]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.06.17-15.53.44:238][282]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-15.53.44:238][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.53.44:252][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-15.53.44:254][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.53.44:261][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.44:261][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.17-15.53.44:262][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.17-15.53.44:267][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.17-15.53.44:321][283]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.06.17-15.53.45:314][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.17-15.53.45:320][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-15.53.45:320][340]PIE: New page: PIE session: MainMenu (17.06.2022, 19:53:45)
+[2022.06.17-15.53.45:320][340]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.06.17-15.53.45:321][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000999s)
+[2022.06.17-15.53.45:321][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001063s)
+[2022.06.17-15.53.45:322][340]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-15.53.45:322][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-15.53.45:322][340]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.17-15.53.45:322][340]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2022.06.17-15.53.45:331][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.17-15.53.45:332][340]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.17-15.53.45:332][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-15.53.45:332][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-15.53.45:332][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-15.53.45:332][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-15.53.45:332][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-15.53.45:332][340]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.17-15.53.45:332][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-15.53.45:332][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-15.53.45:333][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-15.53.45:333][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-15.53.45:333][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-15.53.45:334][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.17-15.53.45:348][340]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.17-15.53.45:348][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-15.53.45:348][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-15.53.45:348][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-15.53.45:349][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.06.17-15.53.45:349][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.06.17-15.53.45:351][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.06.17-15.53.45:351][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.06.17-15.53.45:351][340]LogInit: FAudioDevice initialized.
+[2022.06.17-15.53.45:351][340]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2022.06.17-15.53.45:365][340]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.17-15.53.45:365][340]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.06.17-17.53.45
+[2022.06.17-15.53.45:366][340]LogWorld: Bringing up level for play took: 0.000318
+[2022.06.17-15.53.45:368][340]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.06.17-15.53.45:370][340]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.17-15.53.45:370][340]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.17-15.53.45:370][340]PIE: Server logged in
+[2022.06.17-15.53.45:371][340]PIE: Play in editor total start time 0,051 seconds.
+[2022.06.17-15.53.46:121][385]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.17-15.53.46:121][385]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.17-15.53.46:121][385]LogLevel: Warning: Failed to find streaming level object associated with 'MainMenu'
+[2022.06.17-15.53.46:291][395]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:292][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:310][396]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:310][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:327][397]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:327][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:341][398]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:341][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:359][399]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:359][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:375][400]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:375][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:392][401]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:392][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:409][402]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:409][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:426][403]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:426][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:442][404]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:442][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:459][405]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:459][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:475][406]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:476][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:492][407]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:492][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:508][408]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:509][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:525][409]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:525][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:542][410]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	BP_Player2D_C /Game/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_Player2D_C_0
+	Function /Game/Player/BP_Player2D.BP_Player2D_C:ExecuteUbergraph_BP_Player2D:0CA1
+[2022.06.17-15.53.46:542][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:558][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:575][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:591][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:608][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:624][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:642][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:658][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:675][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:691][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:708][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:725][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:741][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:757][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:775][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:793][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:808][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:824][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:841][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:858][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:874][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:891][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:908][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:924][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:941][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:958][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:974][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.46:991][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:008][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:025][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:041][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:058][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:075][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:091][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:108][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:125][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:142][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:159][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:174][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:192][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:209][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:224][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:241][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:258][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:274][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:291][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:308][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:325][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:341][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:357][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:375][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:391][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:408][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:424][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:441][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:458][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:474][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:491][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:508][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:525][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:541][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:558][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:575][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:591][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:609][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:625][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:641][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:658][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:674][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:691][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:708][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:725][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:741][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:758][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:774][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:791][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:808][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:824][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:858][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:875][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:891][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:909][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:925][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:942][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:957][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:974][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.47:991][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:008][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:025][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:041][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:057][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:074][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:092][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:108][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:125][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:142][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:158][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:175][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:191][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:207][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:224][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:241][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:257][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:275][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:291][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:308][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:324][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:341][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:358][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Node:  Set Control Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Player 2D Blueprint:  BP_Player2D
+[2022.06.17-15.53.48:408][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.48:408][519]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.06.17-15.53.48:408][519]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-15.53.48:409][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.53.48:417][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-15.53.48:418][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.53.48:425][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-15.53.48:425][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.17-15.53.48:428][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.17-15.53.48:433][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.17-15.53.48:583][520]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.17-15.53.48:615][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.17-15.53.50:360][610]LogSlate: Window 'Message Log' being destroyed
+[2022.06.17-15.53.50:368][610]LogSlate: Window 'Message Log' being destroyed
+[2022.06.17-15.53.50:831][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.17-15.53.50:839][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.06.17-15.53.50:845][633]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2022.06.17-15.53.50:845][633]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/MainMenuF013798E4A9707936C79E8A9D7CCD024.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/MainMenu.umap'
+[2022.06.17-15.53.50:867][633]AssetCheck: New page: Asset Save: MainMenu
+[2022.06.17-15.53.50:868][633]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.06.17-15.54.03:966][387]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.17-15.54.03:974][387]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.17-15.54.05:918][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.17-15.54.05:984][503]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level01.Level01
+[2022.06.17-15.54.05:984][503]Cmd: MAP LOAD FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.17-15.54.05:984][503]LightingResults: New page: Lighting Build
+[2022.06.17-15.54.05:984][503]LoadErrors: New page: Loading map: Level01.umap
+[2022.06.17-15.54.05:986][503]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-15.54.05:986][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.54.05:986][503]MapCheck: New page: Map Check
+[2022.06.17-15.54.05:986][503]LightingResults: New page: Lighting Build
+[2022.06.17-15.54.05:994][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-15.54.05:996][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.17-15.54.05:997][503]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-15.54.05:997][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-15.54.06:006][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.17-15.54.06:014][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.17-15.54.06:027][503]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2022.06.17-15.54.06:027][503]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-15.54.06:027][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-15.54.06:028][503]LogAIModule: Creating AISystem for world Level01
+[2022.06.17-15.54.06:031][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.17-15.54.06:047][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.17-15.54.06:059][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.17-15.54.06:060][503]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,083ms to complete.
+[2022.06.17-15.54.06:060][503]LogFileHelpers: Loading map 'Level01' took 0.075
+[2022.06.17-15.54.11:580][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.06.17-15.54.11:580][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-15.54.12:642][829]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.17-15.54.20:293][274]LogViewport: Scene viewport resized to 960x680, mode Windowed.
+[2022.06.17-15.55.11:220][575]LogDerivedDataCache: C:/Users/NikitaPasternatskyi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.17-16.11.26:455][379]LogEditorTransaction: Undo Delete current selection
+[2022.06.17-16.12.08:027][638]LogSlate: Window 'Delete Variable' being destroyed
+[2022.06.17-16.12.09:917][696]LogSlate: Window 'Delete Variable' being destroyed
+[2022.06.17-16.13.27:002][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.06.17-16.13.27:004][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Autosaves/Game/Maps/Level01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.17-16.13.27:015][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level01_Auto1
+[2022.06.17-16.13.27:015][738]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Level01_Auto1D91E97664E3DFEC0AC693DB6DDECDBAE.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Autosaves/Game/Maps/Level01_Auto1.umap'
+[2022.06.17-16.13.27:022][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level01' took 0.054
+[2022.06.17-16.13.27:022][738]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.06.17-16.13.27:034][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_Player2D] ([2] browsable assets)...
+[2022.06.17-16.13.27:034][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player2D]
+[2022.06.17-16.13.27:034][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player2D" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Autosaves/Game/Player/BP_Player2D_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.06.17-16.13.27:117][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/BP_Player2D_Auto1
+[2022.06.17-16.13.27:117][738]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Player2D_Auto17A6588834B7739126F7F56B37CEC10AA.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Autosaves/Game/Player/BP_Player2D_Auto1.uasset'
+[2022.06.17-16.13.27:119][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2022.06.17-16.13.27:119][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy]
+[2022.06.17-16.13.27:119][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.06.17-16.13.27:124][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_Auto1
+[2022.06.17-16.13.27:125][738]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Enemy_Auto1D47DFADA4279BA27610C178B07068673.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto1.uasset'
+[2022.06.17-16.13.27:131][738]LogFileHelpers: Auto-saving content packages took 0.091
+[2022.06.17-16.18.48:000][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.06.17-16.18.48:008][ 38]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2022.06.17-16.18.48:008][ 38]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_EnemyAE8A05B143B96AC761B8FCB924813ACB.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Enemy.uasset'
+[2022.06.17-16.18.48:027][ 38]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.17-16.18.48:027][ 38]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.06.17-16.19.01:012][713]LogContentBrowser: Attempting asset rename: BP_Enemy -> BP_GrappleBlock
+[2022.06.17-16.19.02:127][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock_C' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock:Ignite.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.SKEL_BP_GrappleBlock_C' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock_C:TakeDamage' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:133][713]LogMetaData: Removing '/Game/Blueprints/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Enemy.PackageMetaData'
+[2022.06.17-16.19.02:266][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.19.02:272][713]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GrappleBlock
+[2022.06.17-16.19.02:272][713]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_GrappleBlockFA8BB81540C667CD117251ACD34F391E.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_GrappleBlock.uasset'
+[2022.06.17-16.19.02:276][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.06.17-16.19.02:277][713]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2022.06.17-16.19.02:277][713]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_EnemyB377A33141FFF2C5BEA42FB159D6164D.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Enemy.uasset'
+[2022.06.17-16.19.02:303][713]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-16.19.02:303][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.19.02:303][713]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.06.17-16.19.02:304][713]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Enemy.Default__BP_Enemy_C
+[2022.06.17-16.19.02:304][713]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Enemy.BP_Enemy_C
+[2022.06.17-16.19.48:542][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.19.48:549][148]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GrappleBlock
+[2022.06.17-16.19.48:550][148]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_GrappleBlockA3E0C23146B00449FE502996FD17E356.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_GrappleBlock.uasset'
+[2022.06.17-16.19.48:564][148]AssetCheck: New page: Asset Save: BP_GrappleBlock
+[2022.06.17-16.19.48:564][148]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.19.51:702][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.06.17-16.19.51:703][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-16.19.54:312][450]LogViewport: Scene viewport resized to 616x387, mode Windowed.
+[2022.06.17-16.19.57:890][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2022.06.17-16.19.57:899][632]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door
+[2022.06.17-16.19.57:899][632]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Door84CF89D54A0A4E5ACDCBC1A7EDEF9A87.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Door.uasset'
+[2022.06.17-16.19.57:917][632]AssetCheck: New page: Asset Save: BP_Door
+[2022.06.17-16.19.57:917][632]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.06.17-16.20.39:460][956]LogEditorTransaction: Undo Edit World Size
+[2022.06.17-16.20.39:658][959]LogEditorTransaction: Undo Edit World Size
+[2022.06.17-16.20.39:888][962]LogEditorTransaction: Undo Edit Font
+[2022.06.17-16.20.40:074][965]LogEditorTransaction: Undo Edit Font
+[2022.06.17-16.20.42:256][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2022.06.17-16.20.42:266][ 80]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door
+[2022.06.17-16.20.42:266][ 80]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Door5979405F496DFC32C90E738DC65E43C0.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Door.uasset'
+[2022.06.17-16.20.42:286][ 80]AssetCheck: New page: Asset Save: BP_Door
+[2022.06.17-16.20.42:286][ 80]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.06.17-16.20.46:203][307]LogSlate: Window 'BP_Door' being destroyed
+[2022.06.17-16.20.46:211][307]LogSlate: Window 'BP_Door' being destroyed
+[2022.06.17-16.20.46:216][307]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-16.20.46:216][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-16.20.50:470][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.06.17-16.20.55:350][556]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-16.20.55:488][556]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-16.20.55:488][556]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-16.20.55:488][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-16.20.55:534][556]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BPI_Enemy.BPI_Enemy
+	Asset Type: Blueprint
+[2022.06.17-16.20.55:920][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.06.17-16.20.55:947][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.17-16.20.55:970][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.06.17-16.20.59:370][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.20.59:370][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-16.21.05:032][ 59]BlueprintLog: New page: Compile BP_GrappleBlock
+[2022.06.17-16.21.05:053][ 59]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.21.05:054][ 59]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.21.05:130][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.06.17-16.21.05:831][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.21.05:837][ 95]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GrappleBlock
+[2022.06.17-16.21.05:837][ 95]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_GrappleBlock6A7D1F9C441AC06F37DA8D847E82BFC4.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_GrappleBlock.uasset'
+[2022.06.17-16.21.05:850][ 95]AssetCheck: New page: Asset Save: BP_GrappleBlock
+[2022.06.17-16.21.05:850][ 95]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock_C' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.SKEL_BP_GrappleBlock_C' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock:Ignite.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.SKEL_BP_GrappleBlock_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.40:974][ 72]LogMetaData: Removing '/Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_GrappleBlock.PackageMetaData'
+[2022.06.17-16.21.41:060][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.06.17-16.21.41:060][ 72]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2022.06.17-16.21.41:061][ 72]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_EnemyFD9E01154584D71C4DCF739170C0479C.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Blueprints/BP_Enemy.uasset'
+[2022.06.17-16.21.41:062][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrappableBlock/BP_GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.21.41:069][ 72]LogSavePackage: Moving output files for package: /Game/GrappableBlock/BP_GrappleBlock
+[2022.06.17-16.21.41:069][ 72]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_GrappleBlock3E1BFC084D71FB4CADCE37B6B95E37FA.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset'
+[2022.06.17-16.21.41:122][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.17-16.21.41:152][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.06.17-16.21.41:181][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.06.17-16.21.41:211][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-16.21.41:211][ 72]LogContentValidation: Display: Validating Blueprint /Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.21.41:211][ 72]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.06.17-16.21.41:211][ 72]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Enemy.BP_Enemy_C
+[2022.06.17-16.22.02:967][487]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\MyGames\lost-relic-first-game-jam\Assets\Graphics\GrappleBlock.png)
+[2022.06.17-16.22.03:067][487]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2022.06.17-16.22.03:076][487]LogTexture: Display: Building textures: /Game/GrappableBlock/GrappleBlock.GrappleBlock (TFO_AutoDXT, 64X16 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.06.17-16.22.05:894][595]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GrappableBlock/GrappleBlock.GrappleBlock
+[2022.06.17-16.22.06:011][595]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.06.17-16.22.06:673][595]LogViewport: Scene viewport resized to 911x524, mode Windowed.
+[2022.06.17-16.22.09:830][774]LogTexture: Display: Building textures: /Game/GrappableBlock/GrappleBlock.GrappleBlock (BGRA8, 64X16 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.06.17-16.22.21:311][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrappableBlock/GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.22.21:509][427]LogSavePackage: Moving output files for package: /Game/GrappableBlock/GrappleBlock
+[2022.06.17-16.22.21:510][427]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/GrappleBlock3DFDA8B44E04233043A3ADA887F90A78.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/GrappleBlock.uasset'
+[2022.06.17-16.22.21:527][427]AssetCheck: New page: Asset Save: GrappleBlock
+[2022.06.17-16.22.21:527][427]LogContentValidation: Display: Validating Texture2D /Game/GrappableBlock/GrappleBlock.GrappleBlock
+[2022.06.17-16.22.22:386][478]LogSlate: Window 'GrappleBlock' being destroyed
+[2022.06.17-16.22.22:399][478]LogSlate: Window 'GrappleBlock' being destroyed
+[2022.06.17-16.22.26:674][672]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.06.17-16.22.26:726][673]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.06.17-16.22.26:765][674]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.06.17-16.22.43:817][634]LogSlate: Window 'Extract sprites' being destroyed
+[2022.06.17-16.22.46:963][801]LogContentBrowser: Deferred new asset file creation: GrappleBlock_GRB
+[2022.06.17-16.22.46:970][801]LogContentBrowser: Creating deferred item: GrappleBlock_GRB
+[2022.06.17-16.22.47:008][802]LogContentBrowser: Renaming the item being created (Deferred Item: GrappleBlock_GRB).
+[2022.06.17-16.22.50:365][  4]LogContentBrowser: Attempting asset rename: GrappleBlock_GRB -> NotActive
+[2022.06.17-16.22.50:365][  4]LogContentBrowser: End creating deferred item GrappleBlock_GRB
+[2022.06.17-16.22.54:245][231]LogContentBrowser: Deferred new asset file creation: GrappleBlock_GRB
+[2022.06.17-16.22.54:255][231]LogContentBrowser: Creating deferred item: GrappleBlock_GRB
+[2022.06.17-16.22.54:273][232]LogContentBrowser: Renaming the item being created (Deferred Item: GrappleBlock_GRB).
+[2022.06.17-16.22.59:032][517]LogContentBrowser: Attempting asset rename: GrappleBlock_GRB -> GB_ACTIVE
+[2022.06.17-16.22.59:032][517]LogContentBrowser: End creating deferred item GrappleBlock_GRB
+[2022.06.17-16.23.03:364][776]LogContentBrowser: Attempting asset rename: NotActive -> GB_NOT_ACTIVE
+[2022.06.17-16.23.03:492][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrappableBlock/GB_NOT_ACTIVE" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/GB_NOT_ACTIVE.uasset" SILENT=true
+[2022.06.17-16.23.03:493][776]LogSavePackage: Moving output files for package: /Game/GrappableBlock/GB_NOT_ACTIVE
+[2022.06.17-16.23.03:493][776]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/GB_NOT_ACTIVEADEA534543970F6299D039A7509D3BAD.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/GB_NOT_ACTIVE.uasset'
+[2022.06.17-16.23.03:585][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.17-16.23.03:627][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.17-16.23.03:664][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.17-16.23.03:674][776]AssetCheck: New page: Asset Save: GB_NOT_ACTIVE
+[2022.06.17-16.23.03:674][776]LogContentValidation: Display: Validating PaperFlipbook /Game/GrappableBlock/GB_NOT_ACTIVE.GB_NOT_ACTIVE
+[2022.06.17-16.23.17:661][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrappableBlock/BP_GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.23.17:667][559]LogSavePackage: Moving output files for package: /Game/GrappableBlock/BP_GrappleBlock
+[2022.06.17-16.23.17:668][559]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_GrappleBlock332DF0C84347B4CE41E6F69C90127235.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset'
+[2022.06.17-16.23.17:686][559]AssetCheck: New page: Asset Save: BP_GrappleBlock
+[2022.06.17-16.23.17:687][559]LogContentValidation: Display: Validating Blueprint /Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.23.18:403][601]BlueprintLog: New page: Compile BP_GrappleBlock
+[2022.06.17-16.23.18:470][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.17-16.23.18:971][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrappableBlock/BP_GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.23.18:977][622]LogSavePackage: Moving output files for package: /Game/GrappableBlock/BP_GrappleBlock
+[2022.06.17-16.23.18:977][622]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_GrappleBlock42FE9D9F4FAC7325E302628AC0CAC957.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset'
+[2022.06.17-16.23.18:996][622]AssetCheck: New page: Asset Save: BP_GrappleBlock
+[2022.06.17-16.23.18:996][622]LogContentValidation: Display: Validating Blueprint /Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.23.22:796][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrappableBlock/BP_GrappleBlock" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset" SILENT=true
+[2022.06.17-16.23.22:808][845]LogSavePackage: Moving output files for package: /Game/GrappableBlock/BP_GrappleBlock
+[2022.06.17-16.23.22:809][845]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_GrappleBlock8802060542EA2FBA01D1DCA30C231559.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/GrappableBlock/BP_GrappleBlock.uasset'
+[2022.06.17-16.23.22:829][845]AssetCheck: New page: Asset Save: BP_GrappleBlock
+[2022.06.17-16.23.22:829][845]LogContentValidation: Display: Validating Blueprint /Game/GrappableBlock/BP_GrappleBlock.BP_GrappleBlock
+[2022.06.17-16.23.24:955][965]LogSlate: Window 'Content Browser' being destroyed
+[2022.06.17-16.23.24:960][965]LogSlate: Window 'Content Browser' being destroyed
+[2022.06.17-16.23.28:506][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player2D.BP_Player2D
+[2022.06.17-16.23.28:506][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-16.23.30:409][242]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.23.30:428][242]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.30:430][242]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.30:558][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.17-16.23.31:093][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player2D" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset" SILENT=true
+[2022.06.17-16.23.31:159][262]LogSavePackage: Moving output files for package: /Game/Player/BP_Player2D
+[2022.06.17-16.23.31:159][262]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Player2DECDFA06741DEBFF4BCFC6B9FC3AB22D5.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset'
+[2022.06.17-16.23.31:174][262]AssetCheck: New page: Asset Save: BP_Player2D
+[2022.06.17-16.23.31:174][262]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player2D.BP_Player2D
+[2022.06.17-16.23.36:172][540]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.23.36:191][540]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.36:192][540]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.36:308][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.06.17-16.23.36:494][542]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.23.36:520][542]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.36:522][542]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.36:633][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.06.17-16.23.36:644][542]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.23.36:660][542]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.36:662][542]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.36:748][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.06.17-16.23.36:911][543]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.23.36:931][543]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.36:932][543]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.37:051][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.06.17-16.23.52:085][389]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.23.52:104][389]LogBlueprint: Error: [AssetLog] E:\MyGames\lost-relic-first-game-jam\Connectoid\Content\Player\BP_Player2D.uasset: [Compiler] In use pin  Damage  no longer exists on node  Ignite . Please refresh node or break links to remove pin.
+[2022.06.17-16.23.52:217][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.06.17-16.23.59:167][770]LogEditorTransaction: Undo Create Pin Link
+[2022.06.17-16.23.59:558][773]LogEditorTransaction: Undo Delete current selection
+[2022.06.17-16.24.02:231][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player2D" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset" SILENT=true
+[2022.06.17-16.24.02:300][898]LogSavePackage: Moving output files for package: /Game/Player/BP_Player2D
+[2022.06.17-16.24.02:300][898]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Player2DC56AE9784982949F1C895E8A6E2E672F.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset'
+[2022.06.17-16.24.02:317][898]AssetCheck: New page: Asset Save: BP_Player2D
+[2022.06.17-16.24.02:317][898]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player2D.BP_Player2D
+[2022.06.17-16.24.03:216][948]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.24.03:359][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.06.17-16.24.04:073][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player2D" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset" SILENT=true
+[2022.06.17-16.24.04:147][973]LogSavePackage: Moving output files for package: /Game/Player/BP_Player2D
+[2022.06.17-16.24.04:147][973]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Player2D3B2AF83441CE40C2F77E799BDD7C4159.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset'
+[2022.06.17-16.24.04:160][973]AssetCheck: New page: Asset Save: BP_Player2D
+[2022.06.17-16.24.04:161][973]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player2D.BP_Player2D
+[2022.06.17-16.24.22:729][ 31]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.17-16.25.06:792][566]BlueprintLog: New page: Compile BP_Player2D
+[2022.06.17-16.25.06:952][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.06.17-16.25.07:325][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player2D" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset" SILENT=true
+[2022.06.17-16.25.07:392][573]LogSavePackage: Moving output files for package: /Game/Player/BP_Player2D
+[2022.06.17-16.25.07:392][573]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/BP_Player2D1633346844F809E2A9E972B0A15C5BC4.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Player/BP_Player2D.uasset'
+[2022.06.17-16.25.07:407][573]AssetCheck: New page: Asset Save: BP_Player2D
+[2022.06.17-16.25.07:407][573]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_Player2D.BP_Player2D
+[2022.06.17-16.25.08:091][614]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.17-16.25.08:098][614]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.17-16.25.08:099][614]LogPlayLevel: [PlayLevel] Compiling BP_Door before play...
+[2022.06.17-16.25.08:124][614]LogPlayLevel: [PlayLevel] Compiling Level01 before play...
+[2022.06.17-16.25.08:188][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.06.17-16.25.08:189][614]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (2 blueprints)
+[2022.06.17-16.25.08:189][614]PIE: New page: PIE session: Level01 (17.06.2022, 20:25:08)
+[2022.06.17-16.25.08:189][614]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2022.06.17-16.25.08:192][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002456s)
+[2022.06.17-16.25.08:192][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.002518s)
+[2022.06.17-16.25.08:192][614]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-16.25.08:192][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-16.25.08:192][614]LogAIModule: Creating AISystem for world Level01
+[2022.06.17-16.25.08:193][614]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2022.06.17-16.25.08:235][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.06.17-16.25.08:235][614]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.17-16.25.08:236][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-16.25.08:236][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-16.25.08:236][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-16.25.08:236][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-16.25.08:236][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-16.25.08:236][614]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.17-16.25.08:236][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-16.25.08:236][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-16.25.08:236][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-16.25.08:236][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-16.25.08:236][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-16.25.08:238][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.17-16.25.08:252][614]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.17-16.25.08:252][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-16.25.08:252][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-16.25.08:252][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-16.25.08:253][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.06.17-16.25.08:253][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.06.17-16.25.08:254][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.06.17-16.25.08:254][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.06.17-16.25.08:254][614]LogInit: FAudioDevice initialized.
+[2022.06.17-16.25.08:254][614]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level01'.
+[2022.06.17-16.25.08:326][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-16.25.08:327][614]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.17-16.25.08:328][614]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2022.06.17-18.25.08
+[2022.06.17-16.25.08:329][614]LogWorld: Bringing up level for play took: 0.001593
+[2022.06.17-16.25.08:331][614]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.06.17-16.25.08:332][614]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.17-16.25.08:341][614]PIE: Server logged in
+[2022.06.17-16.25.08:348][614]PIE: Play in editor total start time 0,252 seconds.
+[2022.06.17-16.25.08:365][614]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.17-16.25.09:557][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-16.25.09:557][681]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level01
+[2022.06.17-16.25.09:558][681]LogSlate: Window 'Connectoid Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.06.17-16.25.09:563][681]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-16.25.09:563][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-16.25.09:580][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-16.25.09:586][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-16.25.09:645][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.17-16.25.09:647][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.17-16.25.09:655][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.06.17-16.25.09:683][682]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.06.17-16.25.11:946][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.17-16.25.11:993][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.06.17-16.25.12:003][805]LogSavePackage: Moving output files for package: /Game/Maps/Level01
+[2022.06.17-16.25.12:005][805]LogSavePackage: Moving 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Saved/Level01B372B37A4028527B00FAC5AB1877CAEC.tmp' to 'E:/MyGames/lost-relic-first-game-jam/Connectoid/Content/Maps/Level01.umap'
+[2022.06.17-16.25.12:014][805]LogFileHelpers: No new changes to save!
+[2022.06.17-16.25.12:029][805]AssetCheck: New page: Asset Save: Level01
+[2022.06.17-16.25.12:029][805]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2022.06.17-16.25.12:487][833]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.17-16.25.12:494][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-16.25.12:494][833]PIE: New page: PIE session: Level01 (17.06.2022, 20:25:12)
+[2022.06.17-16.25.12:495][833]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level01
+[2022.06.17-16.25.12:497][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002567s)
+[2022.06.17-16.25.12:497][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level01.Level01 to /Game/Maps/UEDPIE_0_Level01.Level01 (0.002638s)
+[2022.06.17-16.25.12:497][833]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.17-16.25.12:497][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.17-16.25.12:498][833]LogAIModule: Creating AISystem for world Level01
+[2022.06.17-16.25.12:498][833]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2022.06.17-16.25.12:541][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.06.17-16.25.12:542][833]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.17-16.25.12:542][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-16.25.12:542][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-16.25.12:542][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-16.25.12:542][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-16.25.12:542][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-16.25.12:542][833]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.17-16.25.12:542][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-16.25.12:542][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-16.25.12:544][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-16.25.12:544][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-16.25.12:544][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-16.25.12:546][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.17-16.25.12:565][833]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.17-16.25.12:565][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-16.25.12:565][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-16.25.12:565][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-16.25.12:566][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.06.17-16.25.12:566][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.06.17-16.25.12:567][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.06.17-16.25.12:567][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.06.17-16.25.12:567][833]LogInit: FAudioDevice initialized.
+[2022.06.17-16.25.12:567][833]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level01'.
+[2022.06.17-16.25.12:577][833]LogLoad: Game class is 'BP_2DGameMode_C'
+[2022.06.17-16.25.12:578][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2022.06.17-18.25.12
+[2022.06.17-16.25.12:578][833]LogWorld: Bringing up level for play took: 0.001034
+[2022.06.17-16.25.12:581][833]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.06.17-16.25.12:583][833]PIE: Server logged in
+[2022.06.17-16.25.12:583][833]PIE: Play in editor total start time 0,09 seconds.
+[2022.06.17-16.25.14:913][951]LogBlueprintUserMessages: [BP_Player2D_C_1] 900.0
+[2022.06.17-16.25.16:023][ 18]LogBlueprintUserMessages: [BP_Player2D_C_1] -900.0
+[2022.06.17-16.25.19:927][252]LogBlueprintUserMessages: [BP_Player2D_C_1] -666.840637
+[2022.06.17-16.25.21:530][348]LogBlueprintUserMessages: [BP_Player2D_C_1] 866.83844
+[2022.06.17-16.25.23:023][437]LogBlueprintUserMessages: [BP_Player2D_C_1] -900.0
+[2022.06.17-16.25.24:425][521]LogBlueprintUserMessages: [BP_Player2D_C_1] 900.0
+[2022.06.17-16.25.27:966][733]LogBlueprintUserMessages: [BP_Player2D_C_1] 900.0
+[2022.06.17-16.25.29:570][829]LogBlueprintUserMessages: [BP_Player2D_C_1] -900.0
+[2022.06.17-16.25.31:174][925]LogBlueprintUserMessages: [BP_Player2D_C_1] 900.0
+[2022.06.17-16.25.32:829][ 24]LogBlueprintUserMessages: [BP_Player2D_C_1] -900.0
+[2022.06.17-16.25.34:566][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-16.25.34:566][127]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level01
+[2022.06.17-16.25.34:566][127]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-16.25.34:567][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-16.25.34:581][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-16.25.34:586][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-16.25.34:631][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-16.25.34:631][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.06.17-16.25.34:632][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.06.17-16.25.34:636][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-16.25.34:638][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.06.17-16.25.34:688][128]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.06.17-16.25.45:777][789]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.17-16.25.50:064][789]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2022.06.17-16.25.50:064][789]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2022.06.17-16.25.50:064][789]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2022.06.17-16.25.50:064][789]ImportText (LocalVariableDefault__Setup_Arm_Transforms__Const): Missing opening parenthesis: Rotation=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000),Translation=(X=0.000000,Y=0.000000,Z=0.000000),Scale3D=(X=1.000000,Y=1.000000,Z=1.000000))
+[2022.06.17-16.25.50:064][789]ImportText (LocalVariableDefault__Setup_Leg_Transforms__Const): Missing opening parenthesis: Rotation=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000),Translation=(X=0.000000,Y=0.000000,Z=0.000000),Scale3D=(X=1.000000,Y=1.000000,Z=1.000000))
+[2022.06.17-16.25.50:064][789]ImportText (LocalVariableDefault__Setup_Spine_IK_Offsets__Const): Missing opening parenthesis: Rotation=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000),Translation=(X=0.000000,Y=0.000000,Z=0.000000),Scale3D=(X=1.000000,Y=1.000000,Z=1.000000))
+[2022.06.17-16.25.50:064][789]ImportText (LocalVariableDefault__Forward_Neck_Positions__Const): Missing opening parenthesis: X=0.000000,Y=0.000000,Z=0.000000)
+[2022.06.17-16.25.50:223][789]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 467EDF54512C69430575D17746BF6269B0E78DEC), compiling. 
+[2022.06.17-16.25.50:465][789]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 283C14E850C687648250DA598D0BAC9C001ECE60), compiling. 
+[2022.06.17-16.25.50:718][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.06.17-16.25.55:106][789]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2022.06.17-16.26.03:789][789]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2022.06.17-16.26.11:654][789]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-16.26.11:927][789]LogUObjectGlobals: Force Deleting 144 Package(s):
+	Asset Name: /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+	Asset Type: AnimBlueprint
+	Asset Name: /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+	Asset Type: AnimBlueprint
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+	Asset Type: BlendSpace1D
+[2022.06.17-16.26.12:849][789]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2022.06.17-16.26.12:868][789]LogShaderCompilers: Display: ================================================
+[2022.06.17-16.26.12:868][789]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Total job queries 128, among them cache hits 0 (0.00%)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 24 distinct outputs (80.00%)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Shaders Compiled: 128
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Jobs assigned 70, completed 30 (42.86%)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Time job spent in pending queue: average 8.68 s, longest 21.57 s
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Job execution time: average 20.24 s, max 21.53 s
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Job life time (pending + execution): average 20.28 s, max 21.57
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.57 s
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Average processing rate: 1.39 jobs/sec
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Effective parallelization: 2.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 3.08 sec, max 3.18 sec, min 2.98 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 2.63 sec, max 2.63 sec, min 2.63 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 2.62 sec, max 2.88 sec, min 2.35 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 2.53 sec, max 2.59 sec, min 2.48 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.28% of total time (compiled    2 times, average 3.08 sec, max 3.18 sec, min 2.98 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.43% of total time (compiled    2 times, average 2.62 sec, max 2.88 sec, min 2.35 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 10.10% of total time (compiled    2 times, average 2.53 sec, max 2.59 sec, min 2.48 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 5.39% of total time (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.23% of total time (compiled    1 times, average 2.63 sec, max 2.63 sec, min 2.63 sec)
+[2022.06.17-16.26.12:869][789]LogShaderCompilers: Display: ================================================
+[2022.06.17-16.26.13:489][789]LogSkeletalMesh: Built Skeletal Mesh [25.06s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2022.06.17-16.26.13:489][789]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.06.17-16.26.13:693][789]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2022.06.17-16.26.13:693][789]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.06.17-16.26.16:139][789]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
